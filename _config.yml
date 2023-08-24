@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Walking the Landscape: Constable"
-email: dejp3@cam.ac.uk
+title: "Gewitt-Hring"
+email: acc60@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A collaborative project between the Fitzwilliam Museum and Cambridge Digital
-  Humanities to interrogate the landscapes depicted in John Constable's prints.
+  A web space for Andy Corrigan to share his knowedge journey.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://walking-the-landscape.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fitzmuseum_uk
-github_username:  fitzwilliammuseum
-fitz_collection_url: https://data.fitzmuseum.cam.ac.uk/id/object/
+url: "http://gewitt-hring.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: CamDigLib
+github_username:  IrisBox
 permalink: pretty
 # Build settings
 plugins:
