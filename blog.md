@@ -9,7 +9,7 @@ title: Blog
       <div class="flex flex-column flex-row-ns">
         <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
           <a href="{{site.baseurl}}{{ post.url }}" title="Read about {{ post.title }}">
-            <h1 class="f3 avenir mt0 lh-title">
+            <h1 class="f3 avenir dark-grayish-red mt0 lh-title">
               {{ post.title }}
             </h1>
           </a>
