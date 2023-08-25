@@ -36,6 +36,7 @@ $colors: (
   --dark-cyan: #{$dark-cyan};
   --ink: #{$ink};
   --white: #{$white};
+  --bs-gradient: linear-gradient(45deg, $dark-grayish-red, $teal);
 }
 
 /* Generate atomic classes based on custom colors,
