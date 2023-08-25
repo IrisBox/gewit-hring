@@ -11,8 +11,6 @@ $creme: #FFF9EB;
 $strong-cyan: #00B1C1;
 $dark-cyan: #333333;
 $ink: #2B2B2E;
-$light-green: #E0EBE2;
-$strong-cyan: #00B1C1;
 $white: #FFF;
 
 $colors: (
@@ -20,8 +18,6 @@ $colors: (
   "strong-cyan": $strong-cyan,
   "dark-cyan": $dark-cyan,
   "ink": $ink,
-  "light-green": $light-green,
-  "strong-cyan": $strong-cyan,
   "white": $white
 );
 
@@ -30,8 +26,6 @@ $colors: (
   --strong-cyan: #{$strong-cyan};
   --dark-cyan: #{$dark-cyan};
   --ink: #{$ink};
-  --light-green: #{$light-green};
-  --strong-cyan: #{$strong-cyan};
   --white: #{$white};
 }
 
