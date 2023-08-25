@@ -8,6 +8,9 @@ $c-sans-serif: -apple-system, BlinkMacSystemFont, 'segoe ui', 'helvetica neue', 
 
 
 $creme: #FFF9EB;
+$dark-slate-gray: #2f4f4f;
+$dark-grayish-red: #522e31;
+$teal: #008080;
 $strong-cyan: #00B1C1;
 $dark-cyan: #333333;
 $ink: #2B2B2E;
@@ -15,6 +18,9 @@ $white: #FFF;
 
 $colors: (
   "creme": $creme,
+  "dark-slate-gray": $dark-slate-gray,
+  "dark-grayish-red": $dark-grayish-red,
+  "teal": $Teal,
   "strong-cyan": $strong-cyan,
   "dark-cyan": $dark-cyan,
   "ink": $ink,
@@ -23,6 +29,9 @@ $colors: (
 
 :root {
   --creme: #{$creme};
+  --dark-slate-gray: #{$dark-slate-gray};
+  --dark-grayish-red: #{$dark-grayish-red};
+  --teal: #{$teal};
   --strong-cyan: #{$strong-cyan};
   --dark-cyan: #{$dark-cyan};
   --ink: #{$ink};
