@@ -9,29 +9,29 @@ $c-sans-serif: -apple-system, BlinkMacSystemFont, 'segoe ui', 'helvetica neue', 
 
 $creme: #FFF9EB;
 $green: #00470E;
-$berry: #00B1C1;
+$dark-cyan: #006b75;
 $ink: #2B2B2E;
 $light-green: #E0EBE2;
-$light-berry: #EBE0E4;
+$strong-cyan: #00B1C1;
 $white: #FFF;
 
 $colors: (
   "creme": $creme,
   "green": $green,
-  "berry": $berry,
+  "dark-cyan": $dark-cyan,
   "ink": $ink,
   "light-green": $light-green,
-  "light-berry": $light-berry,
+  "strong-cyan": $strong-cyan,
   "white": $white
 );
 
 :root {
   --creme: #{$creme};
   --green: #{$green};
-  --berry: #{$berry};
+  --dark-cyan: #{$dark-cyan};
   --ink: #{$ink};
   --light-green: #{$light-green};
-  --light-berry: #{$light-berry};
+  --strong-cyan: #{$strong-cyan};
   --white: #{$white};
 }
 
