@@ -13,7 +13,7 @@ image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF
       <a href="{{ member.url }}"><h1 class="f3 avenir mt0 lh-title">
         {{ member.title }}
       </h1></a>
-      <h2 class="f5 fw4 mv0 berry">Affiliated to: {{ member.institution }}</h2>
+      <h2 class="f5 fw4 mv0 dark-cyan">Affiliated to: {{ member.institution }}</h2>
       <p class="f4 f4-l fw4  lh-copy avenir">
         {{ member.content | strip_html | truncate: 450 }}
       </p>

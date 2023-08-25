@@ -8,6 +8,6 @@ alt: "Some of the treasure of Cambridge University Library"
 <img src="{{ page.image }}" alt="{{ page.alt }}" class="w-100" />
 </section>
 > "This site is currently under construction..."
-{: .ph0 .f1 .lh-title .measure-narrow .center .berry .fw9}
+{: .ph0 .f1 .lh-title .measure-narrow .center .dark-cyan .fw9}
 
 About here...
