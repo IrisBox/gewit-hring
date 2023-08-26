@@ -21,7 +21,7 @@
 title: "Gewitt-Hring"
 email: acc60@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A web space for Andy Corrigan to share his knowedge journey.  
+  A web space for Andy Corrigan to share his knowedge cycle journey.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gewitt-hring.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CamDigLib
