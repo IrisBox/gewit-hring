@@ -6,6 +6,7 @@
 
         {% if page.is_home %}
         <title>{{ site.title }}</title>
+        
         <meta name="description" content="{{ site.description }}">
         {% else %}
         <title>{{ page.title }} &#8211; {{ site.title }}</title>
@@ -52,8 +53,12 @@
 
         <p class="clip"><a href="#content">Skip to content</a></p>
         <nav class="db w-100 border-box pa3 bg-dark-slate-gray creme dt-l ph5-l">
+        
           <h1 class="db v-mid link w-100 tc mb2 sans-serif f3 dtc-l w-40-l tl-l mb0-l f2-ns">
             <a href="{{ site.baseurl }}/" title="Home" class="link dim creme fw3">{{ site.title }}</a>
+              <a
+              <img src="{{ site.baseurl }}/images/gewitt-hring_logo-creme.png" class="dib w2 h2 br-100" alt={{ site.title }}
+              </a>
           </h1>
             <div class="db v-mid w-100 tc sans-serif dtc-l w-60-l tr-l">
               <a href="{{ site.baseurl }}/" title="Home" class="link dim creme f6 f5-ns dib mr3 mr4-l">Home</a>
