@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Walking in Constable's footsteps
+title: Walks
 permalink: /walks/
 ---
 <section class="mw10 center">
