@@ -1,8 +1,10 @@
-# Walking the landscape
+# Gewitt-Hring
 
-[![DOI](https://zenodo.org/badge/465292641.svg)](https://zenodo.org/badge/latestdoi/465292641)
+[//]: # Add DOI to Zenodo when It's set up!  
+[//]: [![DOI](https://zenodo.org/badge/465292641.svg)](https://zenodo.org/badge/latestdoi/465292641)  
+[//]: # Add DOI to Zenodo when It's set up!  
 
-![Repository social card](https://repository-images.githubusercontent.com/465292641/5f9838da-c16f-4971-b2af-b4ec35f16e0c)
+![Repository social card]([https://repository-images.githubusercontent.com/465292641/5f9838da-c16f-4971-b2af-b4ec35f16e0c](https://github.com/IrisBox/gewitt-hring/blob/f5aef3dde86697d6df9f95b9cd660f8884e5bb0a/images/Gewitt-Hring-MediaCard.jpg))
 
 This repository holds the code for a very simple minimum viable product which will provide a vehicle for a collaborative [Fitzwilliam Museum](https://fitzmuseum.cam.ac.uk) and [Cambridge Digital Humanities](https://cdh.cam.ac.uk) project.
 
