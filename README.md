@@ -22,7 +22,7 @@ licensed material. I endeavour to mark these explicitly.
 1. [Tachyons framework](https://tachyons.io)
 2. [Jekyll Github Pages](https://github.com/github/pages-gem)
 
-This project builds on the [Walking with Constable Project][https://walking-the-landscape.fitzmuseum.cam.ac.uk/)] which was developed by the Fitzwilliam Museum. 
+This project builds on the [Walking with Constable Project](https://walking-the-landscape.fitzmuseum.cam.ac.uk/) which was developed by the Fitzwilliam Museum and Cambridge Digital Humanities. 
 
 ## To run this project locally
 
@@ -30,8 +30,8 @@ This project builds on the [Walking with Constable Project][https://walking-the-
 2. Run the following commands
 
 ```bash
-$ git clone https://github.com/fitzwilliammuseum/walking-the-landscape-fitz-cdh
-$ cd walking-the-landscape-fitz-cdh
+$ git clone https://github.com/IrisBox/gewitt-hring
+$ cd gewitt-hring
 $ bundle install
 $ bundle exec jekyll serve
 ```
