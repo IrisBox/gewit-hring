@@ -4,7 +4,7 @@ firstname: Andrew
 surname: Corrigan
 institution: The University Library
 layout: profile
-image: https://content.fitz.ms/fitz-website/assets/andy_corrigan.png
+image: http://gewitt-hring.com/images/team/AndyCorrigan.jpg
 ---
 Andy Corrigan has a background in archaeology and specialises in graphics, illustration, historic building surveys and the application of photography.
 
