@@ -1,5 +1,5 @@
 ---
-title: Andrew Corrigan
+title: Projects
 firstname: Andrew
 surname: Corrigan
 institution: The University Library
