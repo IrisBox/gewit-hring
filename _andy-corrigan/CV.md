@@ -1,9 +1,9 @@
 ---
-title: Andrew Corrigan
+title: CV
 firstname: Andrew
 surname: Corrigan
 institution: The University Library
-layout: profile
+layout: post
 image: https://content.fitz.ms/fitz-website/assets/andy_corrigan.png
 ---
 Andy Corrigan has a background in archaeology and specialises in graphics, illustration, historic building surveys and the application of photography.
