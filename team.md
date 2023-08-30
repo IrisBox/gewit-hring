@@ -5,7 +5,7 @@ permalink: /andy-corrigan/
 image: https://github.com/IrisBox/gewitt-hring/blob/main/images/team/AndyCorrigan.jpg
 ---
 <section class="mw10 center">
-{% for post in site.posts %}
+{% for post in site.andy-corrigan %}
     <article class="pv4  ph3 ph0-l">
       <div class="flex flex-column flex-row-ns">
         <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
