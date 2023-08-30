@@ -38,7 +38,7 @@ permalink: pretty
 encoding: "utf-8"
 markdown: kramdown
 collections:
-   team:
+   andy-corrigan:
       output: true
       permalink: /:collection/:path/
    walks:

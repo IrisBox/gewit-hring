@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Our project team
-permalink: /team/
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/F25982D9_7CB9_CFFF_028E_8BBFC531887C/588/729/medium_P_1489_R_mas.jpg
+title: Andy Corrigan
+permalink: /andy-corrigan/
+image: https://data.fitzmuseum.cam.ac.uk/imagestore/portfolio/AndyCorrigan.jpg
 ---
 <section class="mw10 center">
 {% assign sorted = site.team | sort:"surname" %}
