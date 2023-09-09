@@ -53,9 +53,6 @@ var klaroConfig = {
             consentModal: {
                 description: 'Here you can see and customize the information that we collect about you. Entries marked as "Example" are just for demonstration purposes and are not really used on this website.',
             },
-            googleAnalytics: {
-                description: 'Collecting of visitor statistics',
-            },
             bootstrap: {
                 description: 'External style sheets for site aesthetics',
             },
