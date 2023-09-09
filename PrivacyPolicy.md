@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
 layout: default
+permalink: /privacy/
 ---
 Last revised on 09/09/2023
 
