@@ -85,7 +85,7 @@ var klaroConfig = {
     apps : [
         {
             // Each app should have a unique (and short) name.
-            name : 'googleAnalytics',
+            name : 'bootstrap',
 
             // If "default" is set to true, the app will be enabled by default
             // Overwrites global "default" setting.
@@ -94,11 +94,11 @@ var klaroConfig = {
             default: true,
 
             // The title of you app as listed in the consent modal.
-            title : 'Google Analytics',
+            title : 'Bootstrap CDN',
 
             // The purpose(s) of this app. Will be listed on the consent notice.
             // Do not forget to add translations for all purposes you list here.
-            purposes : ['analytics'],
+            purposes : ['styling'],
             
             // A list of regex expressions or strings giving the names of
             // cookies set by this app. If the user withdraws consent for a
