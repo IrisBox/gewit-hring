@@ -1,6 +1,7 @@
-Privacy Policy
-==============
-
+---
+title: "Privacy Policy"
+layout: default
+---
 Last revised on 09/09/2023
 
 # GitHub Pages Service
