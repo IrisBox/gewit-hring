@@ -132,7 +132,6 @@ var klaroConfig = {
             title : 'Bootstrap CDN',
             purposes : ['styling']
         },
-
         {
             name : 'googleFonts',
             title : 'Google Fonts',
