@@ -128,11 +128,6 @@ var klaroConfig = {
             onlyOnce: true,
         },
         {
-            name : 'bootstrap',
-            title : 'Bootstrap CDN',
-            purposes : ['styling']
-        },
-        {
             name : 'googleFonts',
             title : 'Google Fonts',
             purposes : ['styling']
