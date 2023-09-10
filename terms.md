@@ -5,7 +5,7 @@ permalink: /terms/
 ---
 Last revised on 09/09/2023
 
-## Terms and Conditions
+## General
 These terms of use (together with the documents referred to on it) set out the terms for use of the Gewitt-Hring website www.gewitt-hring.com, and its subdirectories and subdomains, ('our / the site') and applies to all users of and visitors to the site ('you'). Please read these Terms of Use carefully before you begin to use the site. By using the site, you indicate that you accept these Terms of Use and that you agree to abide by them. If you do not agree to these Terms of Use, please refrain from accessing, using and/or contributing to the site.
 
 These Terms of Use may be amended at any time. Revised Terms of Use take effect immediately from the time they are published and continued use of the site will be deemed acceptance of updated or amended terms.
@@ -22,6 +22,14 @@ You may use the site only for lawful purposes. You must not use the site:
 * for the purpose of harming or attempting to harm minors in any way
 * to transmit or procure the sending of any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam)
 * to knowingly transmit any data, send or upload any material that contains viruses or any other computer code, programs or files designed to destroy, interrupt or limit the functionality of any computer, computer software or hardware or telecommunications equipment.
+
+If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting Us.
+
+Nothing in these terms of use is intended to nor shall it confer any benefit on a third party whether under the Contracts (Rights of Third Parties) Act 1999 or otherwise.
+
+The Gewitt-Hring's failure or delay to exercise or enforce any right in these terms of use does not waive the Gewitt-Hring's right to enforce that right.
+
+If any of these terms of use should be determined to be illegal, invalid or otherwise unenforceable by reason of the laws of any country in which these terms of use are intended to be effective, then to the extent and within that jurisdiction in which that term of use is illegal, invalid or unenforceable, it shall be severed and deleted from these terms of use and the remaining terms of use shall survive and remain in full force and effect and continue to be binding and enforceable.
 
 ## Intellectual Property Rights
 Gewitt-Hring is the owner or the licensee of all intellectual property rights in the site and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved. We endeavour to label materials which are in the public domain or made available under a Creative Commons licence. If you believe your intellectual property rights have been infringed, please contact us in the first instance.
@@ -56,16 +64,6 @@ Nothing in these terms of use is intended to exclude Gewitt-Hring's liability fo
 
 ## Jurisdiction
 These terms of use and all questions of construction, interpretation, validity and performance under these terms including non-contractual disputes or claims shall be governed by English law and subject to the exclusive jurisdiction of the English courts.
-
-## General
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting Us.
-
-Nothing in these terms of use is intended to nor shall it confer any benefit on a third party whether under the Contracts (Rights of Third Parties) Act 1999 or otherwise.
-
-The Gewitt-Hring's failure or delay to exercise or enforce any right in these terms of use does not waive the Gewitt-Hring's right to enforce that right.
-
-If any of these terms of use should be determined to be illegal, invalid or otherwise unenforceable by reason of the laws of any country in which these terms of use are intended to be effective, then to the extent and within that jurisdiction in which that term of use is illegal, invalid or unenforceable, it shall be severed and deleted from these terms of use and the remaining terms of use shall survive and remain in full force and effect and continue to be binding and enforceable.
-
 
 ## Contact
 If you have any questions about these Terms and Conditions, You can contact us by email:
