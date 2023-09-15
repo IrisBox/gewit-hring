@@ -1,8 +1,8 @@
-# Gewitt-Hring
+# Gewit-Hring
 
 [//]: # Add DOI to Zenodo when It's set up!   
 
-![Repository social card](https://raw.githubusercontent.com/IrisBox/gewitt-hring/main/images/Gewitt-Hring-MediaCard.jpg)
+![Repository social card](https://raw.githubusercontent.com/IrisBox/gewit-hring/main/images/Gewit-Hring-MediaCard.jpg)
 
 This repository holds the code and content for a personal blog by Andy Corrigan
 
@@ -30,8 +30,8 @@ This project builds on the [Walking with Constable Project](https://walking-the-
 2. Run the following commands
 
 ```bash
-$ git clone https://github.com/IrisBox/gewitt-hring
-$ cd gewitt-hring
+$ git clone https://github.com/IrisBox/gewit-hring
+$ cd gewit-hring
 $ bundle install
 $ bundle exec jekyll serve
 ```
