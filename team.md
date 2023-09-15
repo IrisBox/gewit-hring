@@ -2,7 +2,7 @@
 layout: default
 title: Andy Corrigan
 permalink: /andy-corrigan/
-image: https://github.com/IrisBox/gewitt-hring/blob/main/images/team/AndyCorrigan.jpg
+image: https://github.com/IrisBox/gewit-hring/blob/main/images/team/AndyCorrigan.jpg
 ---
 <section class="mw10 center">
 {% for post in site.andy-corrigan %}
