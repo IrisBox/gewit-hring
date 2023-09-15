@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: post
-image: http://gewitt-hring.com/images/general/CUDL-Treasures.png
+image: http://gewit-hring.com/images/general/CUDL-Treasures.png
 ---
 
 ## The Darwin Correspondence Project

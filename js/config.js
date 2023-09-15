@@ -4,7 +4,7 @@
 // script take, e.g. like this:
 // <script src="klaro.js" data-config="myConfigVariableName" />
 // You can also disable auto-loading of the consent notice by adding
-// data-no-auto-load=true to the script tag.
+// data-no-auto-load=true to the script tag
 var klaroConfig = {
 
     // You can customize the ID of the DIV element that Klaro will create
@@ -23,7 +23,7 @@ var klaroConfig = {
     // store user consent. If undefined, Klaro will use 'klaro'.
  
     // Put a link to your privacy policy here (relative or absolute).
-    privacyPolicy: 'http://gewitt-hring.com/privacy/',
+    privacyPolicy: 'http://gewit-hring.com/privacy/',
     
     // Defines the default state for applications (true=enabled by default).
     default: true,
