@@ -1,7 +1,7 @@
 ---
-title: Gewitt-Hring
+title: Gewit-Hring
 layout: home
-image: "http://gewitt-hring.com/images/Treasures-1500.jpg"
+image: "http://gewit-hring.com/images/Treasures-1500.jpg"
 alt: "Some of the treasure of Cambridge University Library"
 ---
 > “The human eye can only be in one place at a time, it takes its visible world with it as it walks”
