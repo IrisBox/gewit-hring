@@ -19,4 +19,4 @@ Embedded media viewers or players form third parties may use cookies differently
 
 ## Contact
 If you have any questions about this Website or Privacy Policy, You can contact me:  
-By email: admin@gewitt-hring.com
+By email: admin@gewit-hring.com
