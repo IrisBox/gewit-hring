@@ -3,6 +3,7 @@ title: Gewit-Hring
 layout: home
 image: "http://gewit-hring.com/images/Treasures-1500.jpg"
 alt: "Some of the treasure of Cambridge University Library"
+quote: “The human eye can only be in one place at a time, it takes its visible world with it as it walks”
 ---
 > “The human eye can only be in one place at a time, it takes its visible world with it as it walks”
 >-- <cite>John Berger, Ways of seeing 'Episode 1', 1972
