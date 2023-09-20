@@ -27,6 +27,6 @@ Reflecting and routed in the significance of a mandala, in looking to my own fut
 > 
 > **Hring:** Circle / Cycle / Circuit / Ring perhaps.
 
-Thoughts expressed here are my own, and will by the nature of this site, be constantly developing and changing. I welcome any comments or suggestions.
-Please do get in touch:
-admin@gewit-hring.com
+Thoughts expressed here are my own, and will by the nature of this site, be constantly developing and changing. I welcome any comments or suggestions.  
+Please do get in touch:  
+admin@gewit-hring.com  
