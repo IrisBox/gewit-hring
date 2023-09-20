@@ -42,4 +42,7 @@ Doing so provides an opportunity to identify commonalities on which to build sup
 ### What excites you most about undertaking the Fellowship?
 Practical experience has been the backbone of my career, and the route to my current position has not always been a traditional one. This Fellowship provides the ideal opportunity for me to convene a programme of research and identify opportunities to publish that research, establish my experience, and to develop further research funding opportunities. This would build my own confidence and capabilities as well as opening the door for my own institution and wider network to benefit further from my skills and experience, as well as my future growth. It is an exciting opportunity for me to explore and validate what I hope might be a fresh and diverse approach for research library collections, and one in which can enable me to extol the benefits of such approaches and the richness they can add.
 
+If you want to share any thoughts, comments, suggestions, please do get in touch:
+admin@gewit-hring.com
+
 **This post has been funded by the AHRC-RLUK Professional Practice Fellowship Scheme for research and academic libraries.**
