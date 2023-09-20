@@ -10,7 +10,7 @@ permalink: /walks/
       <div class="flex flex-column flex-row-ns">
         <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
           <a href="{{site.baseurl}}{{ post.url }}" title="Read about {{ post.title }}">
-            <h1 class="f3 avenir mt0 lh-title">
+            <h1 class="f3 dark-grayish-red avenir mt0 lh-title">
               {{ post.title }}
             </h1>
           </a>
@@ -22,7 +22,6 @@ permalink: /walks/
           <img src="{{ post.preview }}" class="db" alt="{{ post.alt_text }}">
         </div>
       </div>
-      <p class="f6 lh-copy black mv0">By <span class="text-ink">{{ post.author }}</span></p>
       <time class="f6 db dark-cyan">{{ post.walkDate | date: "%A, %b %d %Y" }}</time>
     </article>
 {% endfor %}
