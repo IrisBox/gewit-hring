@@ -20,9 +20,9 @@ I was always terrible at making notes, and I’ve come to realise that perhaps t
 Please take a look at the [About]({{site.url}}/about/) page for further info about Gewit-Hring, or about [Andy Corrigan]({{site.url}}/andy-corrigan/). Or explore my [thoughts]({{site.url}}/blog/) and [walks]({{site.url}}/walks/), which may well cross paths and collide. 
 
 ### So, why Gewit-Hring?
-The circular form has begun to underpin many avenues of my enquiry and several lines of thought are taking shape around it. 
+Circularity has begun to underpin many avenues of my enquiry and several lines of thought are taking shape around and from it. 
 
-Reflecting and routed in the significance of a Mandala, in looking to my own future, I turned to the past and fumbled with some Old English with a mind to a journey, a ‘knowledge-circle’:
+Reflecting and routed in the significance of a mandala, in looking to my own future, I turned to the past and fumbled with some Old English with a mind to a journey, a ‘knowledge-circle’:
 > **Gewit:** Knowledge / Understanding / Sense / Wits even.
 > 
 > **Hring:** Circle / Cycle / Circuit / Ring perhaps.
