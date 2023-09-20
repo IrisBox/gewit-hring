@@ -4,14 +4,15 @@ layout: post
 image: http://gewit-hring.com/images/posts/MS-ADD-03996-000-00245_crop.jpg
 lead_image: http://gewit-hring.com/images/posts/MS-ADD-03996-000-00245_crop.jpg
 alt_text: "A diagram by Isaac Newton demonstrating how a prism works"
-excerpt: "Introducing Gewit-Hring, a blog, a walk, a knowledge circle."
+excerpt: "Introducing Gewit-Hring, a blog, a walk, a knowledge circle. I've been awarded an AHRC-RLUK Professional Practice Fellowship for research and academic libraries. You can read a bit about my project here, and course there will be lot's more to come soon!"
 author: Andy Corrigan
 audio: 
 tags: []
 ---
-Introducing Gewit-Hring, a blog, a walk, a knowledge circle. 
-I'm extremely proud to have recently been awarded an AHRC-RLUK Professional Practice Fellowship for research and academic libraries. Today, the RLUK made an [official announcement about this year's Fellows](https://www.rluk.ac.uk/ppfs-fellows-2/), where you can read more about the scheme and meet the Fellows and their projects. 
-You can read a bit more about my project below, and course there will be lot's more to come soon!
+Introducing Gewit-Hring, a blog, a walk, a knowledge circle.  
+I'm extremely proud to have recently been awarded an AHRC-RLUK Professional Practice Fellowship for research and academic libraries. Today, the RLUK made an [official announcement about this year's Fellows](https://www.rluk.ac.uk/ppfs-fellows-2/), where you can read more about the scheme and meet the Fellows and their projects.  
+I have created this site as a space for thinking and exploring, and will be posting some of my Fellowship outputs here.  
+You can read a bit more about my project below, and course there will be lot's more to come soon!  
 
 ### What is the title of your project?
 <h3 class="fw3 f1 tc w-100 dark-grayish-red mt0 mb3 avenir">Encountering digital collections: Practical approaches to using digital collections in research and pedagogy</h3>
