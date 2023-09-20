@@ -12,5 +12,5 @@ Andy began working at Cambridge University Library on both the Darwin Correspond
 
 In 2016, he took on his current role as the Cambridge Digital Library Co-ordinator, focusing on engagement with digital content, such as using the Library’s digital collections in teaching and research and its analysis. Andy has a particular interest in the matrix of technology, resources, research and pedagogy and filling the gaps between them.
 
-If you want to share any thoughts, comments, suggestions, please do get in touch:
+If you want to share any thoughts, comments, suggestions, please do get in touch:  
 admin@gewit-hring.com
