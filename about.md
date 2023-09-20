@@ -19,3 +19,6 @@ Since submitting my Fellowship proposal, the circular form has begun to underpin
 > **Hring:** Circle / Cycle / Circuit / Ring perhaps.
 
 In the interest of a holistic output, some of the activities and work I present here might digress or indirectly relate to the work I am undertaking for my Fellowship. Hopefully it might prove a successful vehicle on which my train of thought can continue beyond the scope and duration of that Fellowship. With that in mind, rather than directly create this blog through my Fellowship funding, I have chosen to do so personally. I therefore intend to acknowledge the [AHRC-RLUK Professional Practice Fellowship](https://www.rluk.ac.uk/prof-practice-fellowships/) for research and academic libraries in all individual outputs specifically associated with my Fellowship rather than this whole site.
+
+If you want to share any thoughts, comments, suggestions, please do get in touch:
+admin@gewit-hring.com
