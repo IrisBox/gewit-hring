@@ -10,12 +10,14 @@ audio:
 tags: []
 ---
 Introducing Gewit-Hring, a blog, a walk, a knowledge circle.  
-I'm extremely proud to have recently been awarded an AHRC-RLUK Professional Practice Fellowship for research and academic libraries. Today, the RLUK made an [official announcement about this year's Fellows](https://www.rluk.ac.uk/ppfs-fellows-2/), where you can read more about the scheme and meet the Fellows and their projects.  
-I have created this site as a space for thinking and exploring, and will be posting some of my Fellowship outputs here.  
-You can read a bit more about my project below, and course there will be lot's more to come soon!  
+
+I'm extremely proud to have recently been awarded an AHRC-RLUK Professional Practice Fellowship for research and academic libraries. Today, the RLUK made an [official announcement about this year's Fellows](https://www.rluk.ac.uk/ppfs-fellows-2/), where you can read more about the scheme and meet the Fellows and their projects.    
+
+I have created this site as a space for thinking and exploring, and will be posting some of my Fellowship outputs here.    
+You can read a bit more about my project below, and course there will be lot's more to come soon!    
 
 ### What is the title of your project?
-<h3 class="fw3 f1 tc w-100 dark-grayish-red mt0 mb3 avenir">Encountering digital collections: Practical approaches to using digital collections in research and pedagogy</h3>
+<h3 class="fw3 f3 tc w-100 dark-grayish-red mt0 mb3 avenir">Encountering digital collections: Practical approaches to using digital collections in research and pedagogy</h3>
 
 ### What is the focus of your Fellowship? 
 Over recent decades, our collections, operations, and audiences have moved from an analogue to a mixed analogue/digital environment. The “digital shift” has transformed our ways of working, the tools and methods at our disposal, our databases, and our catalogues. It has democratised access and enabled new modes of distant reading, but it has also created a fluid and dynamic landscape of such overwhelming scale that our understanding of it is fractured and blurred. This Fellowship will explore some of the questions raised by this challenge:
