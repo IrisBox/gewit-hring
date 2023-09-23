@@ -14,9 +14,11 @@ tags: [Cornwall,Castle]
 ---
 Will say a bit more later...
 
+The last day of astronomical summer before the autumnal equinox.
+
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
 Spotted:   
-A few house martins soaring and swooping over the trees and around the castle walls.
+A few house martins soaring and swooping over the trees and around the castle walls, catching the last flies of summer.
 
 {% include youtube.html id="_fMV0Qz8MSg" %} 
