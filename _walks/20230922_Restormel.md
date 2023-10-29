@@ -21,4 +21,8 @@ The last day of astronomical summer before the autumnal equinox.
 Spotted:   
 A few house martins soaring and swooping over the trees and around the castle walls, catching the last flies of summer.
 
-{% include youtube.html id="_fMV0Qz8MSg" %} 
+A walk around the rampart wall:
+{% include youtube.html id="1IfKqXKt6hE" %} 
+
+Looking out through the crenellations of the rampart wall creates a sort of reversed zoetrope effect (an eporteoz?!):
+{% include youtube.html id="5ay4MH0QvNs" %} 
