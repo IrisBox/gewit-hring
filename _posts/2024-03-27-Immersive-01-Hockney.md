@@ -48,7 +48,7 @@ In doing so, he provides a foundation for his understanding of perspective and s
 
 I think that’s a nice sentiment that is a clear and honest declaration of purpose, and one I can relate to. 
 
-*Does it succeed?*
+**Does it succeed?**
 
 I think Hockney potentially achieves a lot of what he attempted to set out to with *‘Bigger & Closer’*. The dominant experience for me, as it also seems for many of the critics, was that it felt like being inside a documentary. It was undoubtedly a performance, tightly choreographed, and slickly presented. But as with any performance, engagement with the audience is not a given, we are in control of the level of attention we afford it. We each bring our own perspective and take away our own understanding, or perhaps even focus too much on using our mobile devices as an interpretive or intermediate tool rather than allowing our own minds to work their magic. However, the scale of the show undoubtably attempts to heighten the level of control the performer has over the audience, which perhaps even verges on sinister.
 
