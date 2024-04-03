@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: Blog
+permalink: /journal/
+title: Journal
 ---
 <section class="mw10 center">
 {% for post in site.posts %}
