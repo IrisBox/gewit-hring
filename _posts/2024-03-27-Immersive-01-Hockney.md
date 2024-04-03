@@ -1,6 +1,5 @@
 ---
-title: "Dancing in the Crowd  
-(Not Smaller & Further Away)"
+title: "Dancing in the Crowd (…"
 layout: post
 image: http://gewit-hring.com/images/posts/Dancing-In-a-Crowd.jpg
 lead_image: http://gewit-hring.com/images/posts/Dancing-In-a-Crowd.jpg
@@ -9,6 +8,8 @@ excerpt: "Immersive art experiences seem to be popping up everywhere. What does 
 author: Andy Corrigan
 tags: [Immersive, experience, art, pedagogy]
 ---
+#(…Not Smaller & Further Away)
+
 Nearly a year ago now, I went to the newly opened [*Lightroom*](https://lightroom.uk/) to see [Fifty Nine Production’s *'David Hockney: Bigger & Closer (Not Smaller & Further Away)'*](https://59productions.co.uk/project/david-hockney-bigger-closer/). It was billed as a ‘new kind of show’ that invited visitors to see the world through the eyes of David Hockney. 
 
 Immersive art experiences seem to be popping up everywhere and vying for a piece of glitzy “insta” attention. An article in [*Wallpaper*](https://www.wallpaper.com/art/david-hockney-bigger-and-closer-lightroom-london-review) about the Hockney show sets the tone with the phrase “sifts through the burgeoning landscape of immersive art experiences”, implying this type of experience will be a growing chore.[^1] Discussing the trend shortly before the launch of the Hockney show, Alex Fleming-Brown tells us that “immersive art exhibitions are everywhere and they’re awful […] I’ve been to London’s immersive art exhibitions, so you don’t have to.”[^2]
@@ -61,7 +62,7 @@ The content, pace, and pulse of the show lean me towards sharing the opinion of 
 
 Something utterly charming happened whilst I was in the show, I witnessed a young girl, completely oblivious to the rest of the audience, who had found a clear spot near one of the walls, and she was totally engrossed in dancing to the sounds and through the projected lights and images as they moved around her. That, surely, is the very embodied definition of immersive. I wonder how many other people would have secretly wished they had the courage to join her? But at what price? £25 is undeniably expensive for something that lasts less than an hour, and whilst the production must have come at a high cost, does the intention then become disingenuous if its cost makes it elitist? I thought it was a great experience, and it has undeniably had a lasting impact on me, as I write this nearly a year later, but then I’m lucky enough to be able to afford a ticket.
 
->-- <cite>Image above: A child dances amongst the crowd during Fifty Nine Production’s ‘David Hockney: Bigger & Closer (Not Smaller & Further Away)’ immersive art experience at the Lightroom in Kings Cross, London</cite>
+>-- <cite>Image above: A child dances amongst the crowd during [Fifty Nine Production’s *'David Hockney: Bigger & Closer (Not Smaller & Further Away)'*](https://59productions.co.uk/project/david-hockney-bigger-closer/) immersive art experience at the [*Lightroom*](https://lightroom.uk/) in Kings Cross, London</cite>
 
 *** 
 [^1]: Jennings, Will. (2023). *David Hockney at Lightroom: a technologically spectacular journey, but is it art?*. Available at: https://www.wallpaper.com/art/david-hockney-bigger-and-closer-lightroom-london-review. (Accessed: 25/03/2024).  
