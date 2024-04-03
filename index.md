@@ -7,7 +7,7 @@ quote: "The human eye can only be in one place at a time, it takes its visible w
 byline: John Berger, Ways of seeing 'Episode 1', 1972
 ---
 <h1 class="fw3 f1 tc w-100 dark-grayish-red mt0 mb3 avenir">Welcome to Gewit-Hring</h1>
-<p class="tc">Andy Corrigan's Blog | Walk | Knowledge Circle</p>  
+<p class="tc">Andy Corrigan's Journal | Walk | Knowledge Circle</p>  
 <section class="mw5 mw7-ns center pa3 ph5-ns">
 <img src="{{ page.image }}" alt="{{ page.alt }}" class="w-100" />
 </section>
@@ -17,7 +17,7 @@ A space to try. A space to document.
 
 I was always terrible at making notes, and I’ve come to realise that perhaps that is not a reason not to try … and perhaps, it might even be interesting …
 
-Please take a look at the [About]({{site.url}}/about/) page for further info about Gewit-Hring, or about [Andy Corrigan]({{site.url}}/andy-corrigan/). Or explore my [thoughts]({{site.url}}/blog/) and [walks]({{site.url}}/walks/), which may well cross paths and collide. 
+Please take a look at the [About]({{site.url}}/about/) page for further info about Gewit-Hring, or about [Andy Corrigan]({{site.url}}/andy-corrigan/). Or explore my [thoughts]({{site.url}}/journal/) and [walks]({{site.url}}/walks/), which may well cross paths and collide. 
 
 ### So, why Gewit-Hring?
 Circularity has begun to underpin many avenues of my enquiry and several lines of thought are taking shape around and from it. 
