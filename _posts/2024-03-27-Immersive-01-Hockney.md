@@ -1,5 +1,6 @@
 ---
-title: "Dancing In The Crowd (Not Smaller & Further Away)"
+title: "Dancing In The Crowd  
+(Not Smaller & Further Away)"
 layout: post
 image: http://gewit-hring.com/images/posts/Dancing-In-a-Crowd.jpg
 lead_image: http://gewit-hring.com/images/posts/Dancing-In-a-Crowd.jpg
