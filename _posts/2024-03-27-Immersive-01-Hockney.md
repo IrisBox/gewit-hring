@@ -8,7 +8,7 @@ excerpt: "Immersive art experiences seem to be popping up everywhere. What does 
 author: Andy Corrigan
 tags: [Immersive, experience, art, pedagogy]
 ---
-#(…Not Smaller & Further Away)
+# (…Not Smaller & Further Away)
 
 Nearly a year ago now, I went to the newly opened [*Lightroom*](https://lightroom.uk/) to see [Fifty Nine Production’s *'David Hockney: Bigger & Closer (Not Smaller & Further Away)'*](https://59productions.co.uk/project/david-hockney-bigger-closer/). It was billed as a ‘new kind of show’ that invited visitors to see the world through the eyes of David Hockney. 
 
