@@ -66,6 +66,8 @@ Something utterly charming happened whilst I was in the show, I witnessed a youn
 
 >-- <cite>Image above: A child dances amongst the crowd during [Fifty Nine Production’s *'David Hockney: Bigger & Closer (Not Smaller & Further Away)'*](https://59productions.co.uk/project/david-hockney-bigger-closer/) immersive art experience at the [*Lightroom*](https://lightroom.uk/) in Kings Cross, London</cite>
 
+**The writing of this post has been funded by the [AHRC-RLUK Professional Practice Fellowship](https://www.rluk.ac.uk/ppfs-fellows-2/) Scheme for research and academic libraries.**
+
 *** 
 [^1]: Jennings, Will. (2023). *David Hockney at Lightroom: a technologically spectacular journey, but is it art?*. Available at: https://www.wallpaper.com/art/david-hockney-bigger-and-closer-lightroom-london-review. (Accessed: 25/03/2024).  
 [^2]: Fleming-Brown, Alex. (2023). *Immersive Art Exhibitions Are Everywhere and They're Awful*. Available at: https://www.vice.com/en/article/pkgngz/why-immersive-art-exhibitions-are-awful. (Accessed: 26/03/2024).  
