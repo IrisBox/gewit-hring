@@ -81,6 +81,7 @@
         "stroke-opacity": 1
       },
       "geometry": {
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
