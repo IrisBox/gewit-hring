@@ -1,1 +1,26 @@
+---
+title: "20240407 Grantchester"
+walk_byline: "Change Me!"
+layout: walk
+excerpt: "St Botolph, Iken - There and back again."
+preview: http://gewit-hring.com/images/walks/20230319_141855.jpg
+image: http://gewit-hring.com/images/walks/20230319_141855.jpg
+alt: 'St Botolph, Iken, east window'
+walkDate: 2023-03-19
+geojson: 20240407-Grantchester-Coments.json
+centroid: "51.963850, 1.007635"
+tags: [Suffolk,Snape,Iken]
+---
+A pilgrimage, of sorts, from Snape Maltings along the River Alde to Iken, and St Botolph's Church.
+
+Grey and overcast, but peaceful and pleasant. 
+
+An enchanting and timeless bleakness.
+
+Spotted:   
+A sea of waders, skipping, swooping and scouring.  
+A seal on a sand bank, basking and lolling.  
+A Barn Owl, keeping watch and hunting in the reeds.  
+
+{% include youtube.html id="_fMV0Qz8MSg" %} 
 
