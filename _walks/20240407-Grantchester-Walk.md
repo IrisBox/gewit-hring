@@ -11,11 +11,13 @@ geojson: 20240407-Grantchester-02a.json
 
 tags: [River,Water,Meadow,Walk]
 ---
-As I set off on this walk I set my activity tracker app recording as I have been experimenting with. 
+As I set off on this walk I set my activity tracker app recording 
+
+Much as I have been doing. 
 
 It made me contemplate what constitutes a walk.
 
-On it's own, the path I walked, extracted from the app isn't much in itself.
+On it's own the path I walked isn't much in itself.
 
 It's a line.
 
