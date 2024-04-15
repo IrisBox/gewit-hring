@@ -26,4 +26,6 @@ You could make a graphic design?
 ![A graphic design created using the line I walked]({{site.url}}/images/walks/20240407-Grantchester-Walk.jpg)
 >-- <cite>A graphic design created using the line I walked.</cite>
 
+Does it tell a story?
+
 [See journal?]
