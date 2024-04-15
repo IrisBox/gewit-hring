@@ -11,7 +11,17 @@ geojson: 20240407-Grantchester-02a.json
 
 tags: [River,Water,Meadow,Walk]
 ---
-Will say a bit more later...
+As I set off on this walk I set my activity tracker app recording as I have been experimenting with. 
 
-Spotted:   
+It made me contemplate what constitutes a walk.
 
+On it's own, the path I walked, extracted from the app isn't much in itself.
+
+It's a line.
+
+You could make a graphic design?
+
+![A graphic design created using the line I walked]({{site.url}}/images/walks/20240407-Grantchester-Walk.jpg)
+>-- <cite>A graphic design created using the line I walked.</cite>
+
+[See journal?]
