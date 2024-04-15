@@ -14554,6 +14554,22 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "A butterfly, a common blue(?), dances to and fro, its electric hue around us meanders."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.10464869986060421,
+          52.189186871549936
+        ]
+      }
+    },	  
      {
       "type": "Feature",
       "properties": {
