@@ -14696,7 +14696,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Blossom tree in the beer garden looks splendid, like a perfect cloud resting on a stick."
+        "name": "Blossom tree in the beer garden looks splendid, like a perfect cloud resting on a stick.",
+	"link": "https://cudl.lib.cam.ac.uk/view/PH-Y-03039-A/56"      
       },
       "geometry": {
         "type": "Point",
