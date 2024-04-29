@@ -14480,7 +14480,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Beetle: Wonder if it was a species Darwin hunted?"
+        "name": "Beetle: Wonder if it was a species Darwin hunted?",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-DAR-00204/117"
       },
       "geometry": {
         "type": "Point",
@@ -14496,7 +14497,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Wading: Good job I wore welly's!"
+        "name": "Wading: Good job I wore welly's!",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-RCS-Y-00305-F/15"
       },
       "geometry": {
         "type": "Point",
@@ -14512,7 +14514,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Boggy Patch: Too wet even for welly's!"
+        "name": "Boggy Patch: Too wet even for welly's!"
       },
       "geometry": {
         "type": "Point",
@@ -14528,7 +14530,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Watch out - Wobbly plank!"
+        "name": "Watch out - Wobbly plank!"
       },
       "geometry": {
         "type": "Point",
@@ -14544,7 +14546,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Bee: Heavily laden with pollen, either tired or got a bit squished, moved to the shade on a stick."
+        "name": "Bee: Heavily laden with pollen, either tired or got a bit squished, moved to the shade on a stick.",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-DAR-00194/1"
       },
       "geometry": {
         "type": "Point",
@@ -14560,7 +14563,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "A butterfly, a common blue(?), dances to and fro, its electric hue around us meanders."
+        "name": "A butterfly, a common blue(?), dances to and fro, its electric hue around us meanders.",
+        "link": "https://cudl.lib.cam.ac.uk/view/MS-DD-00005-00005/187"
       },
       "geometry": {
         "type": "Point",
@@ -14576,7 +14580,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Knock knock: the Hawthorn House."
+        "name": "Knock knock: the Hawthorn House.",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-CCCC-RACKHAM-SLIDES-HATFIELDFOREST/211"
       },
       "geometry": {
         "type": "Point",
@@ -14592,7 +14597,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Fallen Hawthorn. Very windy today, but not THAT windy!"
+        "name": "Fallen Hawthorn. Very windy today, but not THAT windy!"
       },
       "geometry": {
         "type": "Point",
@@ -14608,7 +14613,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Investigate ladder at bank pushed into river - must be to help swimmers get in and out."
+        "name": "Investigate ladder at bank pushed into river - must be to help swimmers get in and out.",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-Y-03011-B-LS/359"
       },
       "geometry": {
         "type": "Point",
@@ -14624,7 +14630,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Keep having to dodge the cyclists so headed back toward river."
+        "name": "Keep having to dodge the cyclists so headed back toward river."
       },
       "geometry": {
         "type": "Point",
@@ -14640,7 +14646,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Try path over here, but very boggy and gave up and headed back to river."
+        "name": "Try path over here, but very boggy and gave up and headed back to river."
       },
       "geometry": {
         "type": "Point",
@@ -14656,7 +14662,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Getting weary of the strong wind, so cut the corner off."
+        "name": "Getting weary of the strong wind, so cut the corner off.",
+        "link": "https://cudl.lib.cam.ac.uk/view/PH-RCMS-00277-00001/161"
       },
       "geometry": {
         "type": "Point",
@@ -14672,7 +14679,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Time for a drink in the pub of course!"
+        "name": "Time for a drink in the pub of course!",
+        "link": "https://cudl.lib.cam.ac.uk/view/PR-INC-00000-A-00007-00002-00888/76"
       },
       "geometry": {
         "type": "Point",
@@ -14688,7 +14696,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popupContent": "Blossom tree in the beer garden looks splendid, like a perfect cloud resting on a stick."
+        "name": "Blossom tree in the beer garden looks splendid, like a perfect cloud resting on a stick."
       },
       "geometry": {
         "type": "Point",
