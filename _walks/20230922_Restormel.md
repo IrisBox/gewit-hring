@@ -2,11 +2,11 @@
 title: "20230922 Restormel"
 walk_byline: "A stroll a-round a castle"
 layout: walk
+date: 2023-09-22
 excerpt: "Restormel Castle..."
 preview: http://gewit-hring.com/images/walks/20230922_Restormel.jpg
 lead_image: http://gewit-hring.com/images/walks/20230922_Restormel.jpg
 alt: 'Approaching Restormel Castle'
-walkDate: 2023-09-22
 geojson: 20230922-Restormel.json
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-CF-00075 
