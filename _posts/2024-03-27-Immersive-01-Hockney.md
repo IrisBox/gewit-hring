@@ -1,6 +1,7 @@
 ---
 title: "Dancing in the Crowd (…"
 layout: post
+date: 2024-03-27
 image: http://gewit-hring.com/images/posts/Dancing-In-a-Crowd.jpg
 lead_image: http://gewit-hring.com/images/posts/Dancing-In-a-Crowd.jpg
 alt_text: "An unknown girl dances amongst the crowd during Fifty Nine Production’s ‘David Hockney: Bigger & Closer (Not Smaller & Further Away)’ immersive art experience at the Lightroom in Kings Cross, London"
