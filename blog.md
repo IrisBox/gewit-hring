@@ -23,7 +23,6 @@ title: Journal
           <img src="{{ post.image }}" class="db" alt="{{ post.alt_text }}">
         </div>
       </div>
-
     </article>
 {% endfor %}
 </section>
