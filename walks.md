@@ -16,7 +16,6 @@ permalink: /walks/
           <p class="f4 fw4 f4-l lh-copy avenir ink">
               {{ post.excerpt }}
           </p>
-         <time class="f6 db dark-cyan">{{ walk_date | date: "%A, %b %d %Y" }}</time>
          </div>
         <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
           <img src="{{ post.preview }}" class="db" alt="{{ post.alt_text }}">
