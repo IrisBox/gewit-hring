@@ -6,7 +6,7 @@ excerpt: "The sun is shining, spring has sprung, time to visit a treasured place
 preview: http://gewit-hring.com/images/walks/20240407-Grantchester.jpg
 lead_image: http://gewit-hring.com/images/walks/20240407-Grantchester.jpg
 alt: "Blurry photographs taken on the walk along the Cam from Grantchester. They show two images of a beetle scurrying through grass either side of an image of a person's shadow as they walk."
-walkDate: 2024-04-07
+walk_date: 2024-04-07
 geojson: 20240407-Grantchester-02a.json
 
 tags: [River,Water,Meadow,Walk]
