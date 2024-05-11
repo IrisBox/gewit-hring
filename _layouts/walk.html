@@ -1,9 +1,14 @@
 {% include header.html %}
+<main class="mw7 mh3 mb5 center">
+        <div id="banner" class="mw7 center ph2 mv3">
+            <img src="{{ page.lead_image }}" class="light-red" alt="{{ page.alt_text}}">
+        </div>
+        <article class="ph3">
 <article class="ph7-ns pl4 pr4 mt3 mb3 bg-white">
     <div class="vh-75 cover bg-center" style="background-image: url({{page.image}});"></div>
     <div>
         <p class="lh-copy measure f4 f3-ns berry baskerville">
-            <a href="{{site.fitz_collection_url}}{{page.pref}}" title="View full record">{{ page.image-credit}}</a>
+            {{ page.image-credit}
         </p>
     </div>
     <div class="pv1 f4 f2-ns measure center">
