@@ -1,6 +1,7 @@
 ---
 title: "Introducing Gewit-Hring..."
 layout: post
+date: 2023-09-20
 image: http://gewit-hring.com/images/posts/MS-ADD-03996-000-00245_crop.jpg
 lead_image: http://gewit-hring.com/images/posts/MS-ADD-03996-000-00245_crop.jpg
 alt_text: "A diagram by Isaac Newton demonstrating how a prism works"
