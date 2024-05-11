@@ -1,6 +1,7 @@
 ---
 title: "20240407 Grantchester: Another perspective"
 layout: post
+date: 2024-04-07
 image: http://gewit-hring.com/images/walks/20240407-Grantchester.jpg
 lead_image: http://gewit-hring.com/images/walks/20240407-Grantchester.jpg
 alt_text: "A map a walk, a walk, a map"
