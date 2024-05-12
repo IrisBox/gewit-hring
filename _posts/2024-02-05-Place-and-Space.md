@@ -15,9 +15,9 @@ Digital tools and methods, in particular global positioning systems (GPS), enabl
 
 We can’t say we weren’t warned this might happen. In 1923, during a lecture, Aby Warburg invoked the Greek myths of Prometheus and Icarus when he foretold the impact that technological advances in flight, communication and electricity would have on our perception of distance:
 
-&nbsp;&nbsp;&nbsp;&nbsp; *“The modern Prometheus and the modern Icarus, Franklin and the Wright brothers, who invented the dirigible airplane, are precisely those ominous destroyers of the sense of distance, who threaten to lead the planet back into chaos.
-&nbsp;&nbsp;&nbsp;&nbsp; Telegram and telephone destroy the cosmos. Mythical and symbolic thinking strive to form spiritual bonds between humanity and the surrounding world, shaping distance into the space required for devotion and reflection: the distance undone by the instantaneous electric connection.”*
-&nbsp;&nbsp;&nbsp;&nbsp; (Warburg, 1995)[^1]
+&nbsp;&nbsp;&nbsp;&nbsp; *“The modern Prometheus and the modern Icarus, Franklin and the Wright brothers, who invented the dirigible airplane, are precisely those ominous destroyers of the sense of distance, who threaten to lead the planet back into chaos.  
+&nbsp;&nbsp;&nbsp;&nbsp; Telegram and telephone destroy the cosmos. Mythical and symbolic thinking strive to form spiritual bonds between humanity and the surrounding world, shaping distance into the space required for devotion and reflection: the distance undone by the instantaneous electric connection.”*  
+&nbsp;&nbsp;&nbsp;&nbsp; (Warburg, 1995)[^1]  
 
 Have we flown too close to the sun? Perhaps he even predicted the sense of apathy many of us now feel as part of our perfunctory use of digital technology? Are we entering an inevitable era in a cycle of automation anxiety in? (Bassett & Roberts, 2019)[^2]
 
@@ -29,25 +29,25 @@ I was asked if I could demonstrate how a digital project can implement theoretic
 
 One of the main influencers of the design of the project was the French theorist of everyday life Michel De Certeau, who argued that [walking is writing](https://walking-the-landscape.fitzmuseum.cam.ac.uk/blog/walking-stories/). The practical link between a philosophy that poses walking as a form of writing and a project that uses this idea to take digital content for a walk is unambiguous enough, but De Certeau also helps us fill in some of the gaps in his essay on Spatial Stories (Certeau, 1984):
 
-&nbsp;&nbsp;&nbsp;&nbsp; *“Every day [stories] traverse and organise places; they select and link them together […] they are spatial trajectories. 
-&nbsp;&nbsp;&nbsp;&nbsp; “Spaces” and “places”.
-&nbsp;&nbsp;&nbsp;&nbsp; A place is thus an instantaneous configuration of positions. It implies an indication of stability. A space exists when one takes into consideration vectors of direction, velocities, and time variables. Thus space is composed of intersections of mobile elements. […] Everyday stories tell us what one can do in it and make out of it. They are treatments of space. […] The Story […] “turns” the frontier into a crossing, and the river into a bridge. […] From the functioning of the urban network to that of the rural landscape, there is no spatiality that is not organised by the determination of frontiers. […] What the map cuts up, the story cuts across.”*
-&nbsp;&nbsp;&nbsp;&nbsp; (Certeau, 1984, p. 115-130)[^4]
+&nbsp;&nbsp;&nbsp;&nbsp; *“Every day [stories] traverse and organise places; they select and link them together […] they are spatial trajectories.   
+&nbsp;&nbsp;&nbsp;&nbsp; “Spaces” and “places”.  
+&nbsp;&nbsp;&nbsp;&nbsp; A place is thus an instantaneous configuration of positions. It implies an indication of stability. A space exists when one takes into consideration vectors of direction, velocities, and time variables. Thus space is composed of intersections of mobile elements. […] Everyday stories tell us what one can do in it and make out of it. They are treatments of space. […] The Story […] “turns” the frontier into a crossing, and the river into a bridge. […] From the functioning of the urban network to that of the rural landscape, there is no spatiality that is not organised by the determination of frontiers. […] What the map cuts up, the story cuts across.”*  
+&nbsp;&nbsp;&nbsp;&nbsp; (Certeau, 1984, p. 115-130)[^4]  
 
 Hermeneutics, of a sort, is another factor that had a place to play. How would walking with Constable influence our interpretation and understanding and of his work? When German philosopher Hans-Georg Gadamer took on the task of his ‘Truth and Method’, one particular point of focus around Friedrich Schleiermacher’s point that: 
 
-&nbsp;&nbsp;&nbsp;&nbsp; *“The work of art loses […] significance if it is torn from its original context […]. Hence A work of art, too, is really rooted in its own soil, its own environment. It loses its meaning when it is wrenched from this environment and enters into general circulation.”*
-&nbsp;&nbsp;&nbsp;&nbsp; (Gadamer, 1989, p. 166)[^5]
+&nbsp;&nbsp;&nbsp;&nbsp; *“The work of art loses […] significance if it is torn from its original context […]. Hence A work of art, too, is really rooted in its own soil, its own environment. It loses its meaning when it is wrenched from this environment and enters into general circulation.”*  
+&nbsp;&nbsp;&nbsp;&nbsp; (Gadamer, 1989, p. 166)[^5]  
 
 So, our use of augmented reality to take works that had been created for mass circulation, doubly so as we were using digitised mezzotints produced for Constable by the engraver David Lucas, speaks directly to this - we were taking those works back into the environment that made them: 
 
-&nbsp;&nbsp;&nbsp;&nbsp; *“The various means of historical reconstruction - re-establishing the “world” to which it belongs, re-establishing the original situation which the creative artist “had in mind,” performing in the original style, and so on – can claim to reveal the true meaning of a work of art and guard against misunderstanding and anachronistic interpretation”*
-&nbsp;&nbsp;&nbsp;&nbsp; (Gadamer, 1989, p. 166)[^5]
+&nbsp;&nbsp;&nbsp;&nbsp; *“The various means of historical reconstruction - re-establishing the “world” to which it belongs, re-establishing the original situation which the creative artist “had in mind,” performing in the original style, and so on – can claim to reveal the true meaning of a work of art and guard against misunderstanding and anachronistic interpretation”*  
+&nbsp;&nbsp;&nbsp;&nbsp; (Gadamer, 1989, p. 166)[^5]  
 
 Gadamer was also keen to remind us that: 
 
-&nbsp;&nbsp;&nbsp;&nbsp; *“The essential nature of the historical spirit consists not in the restoration of the past but in thoughtful meditation with contemporary life.”*
-&nbsp;&nbsp;&nbsp;&nbsp; (Gadamer, 1989, p. 168)[^5]
+&nbsp;&nbsp;&nbsp;&nbsp; *“The essential nature of the historical spirit consists not in the restoration of the past but in thoughtful meditation with contemporary life.”*  
+&nbsp;&nbsp;&nbsp;&nbsp; (Gadamer, 1989, p. 168)[^5]  
 
 The Walking with Constable project invited groups of ‘publics’ to join us. Some were local, knew the landscape very well and had a great deal of knowledge and experience about it to share. Others were locals who might not know it so well, or even consider how Constable’s work might relate to them, and they also had a great deal of knowledge and experience to share.
 
@@ -55,8 +55,8 @@ One phase of the project explored the potential of including communities who mig
 
 Even aspects that occurred through practicality would find parallels or nooks and crannies in aspects of theory. The embodied action of holding the paper slips with printed markers on them up to the tablet’s camera lens that called the correct digital image into augmented reality for example. This action recalled the work of photographer Kenneth Josephson, who was known for his photographs that layered pictures within pictures, once said:
 
-&nbsp;&nbsp;&nbsp;&nbsp; *“It was important for me to learn to think of the photograph as a physical object, because I had always thought of the photograph as an illusionistic space and never as a piece of paper that curls up or that you could hold. […] When you hold the photograph in a scene, it starts taking on the feel of an object”* 
-&nbsp;&nbsp;&nbsp;&nbsp; (Josephson, 1999, p. 179 )[^6]
+&nbsp;&nbsp;&nbsp;&nbsp; *“It was important for me to learn to think of the photograph as a physical object, because I had always thought of the photograph as an illusionistic space and never as a piece of paper that curls up or that you could hold. […] When you hold the photograph in a scene, it starts taking on the feel of an object”*   
+&nbsp;&nbsp;&nbsp;&nbsp; (Josephson, 1999, p. 179 )[^6]  
 
 As someone who leans very much towards visual language and practical understanding, I’ve never found philosophy and theory particularly easy to grapple with. But the Walking with Constable project has emboldened me with a different perspective; that just as a viewer can fluidly interpret an artwork, so too is it possible to relate to philosophy and theory. Whether I succeeded in transporting every student over the bridge that we built from theory to practice is hard to say, but there’s certainly some dense food for thought and debate. This, after all, is a journey in itself.
 
