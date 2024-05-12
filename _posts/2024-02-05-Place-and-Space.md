@@ -68,6 +68,8 @@ As someone who leans very much towards visual language and practical understandi
 
 *[Addendum 12/05/2024:] I talked to the [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/) MPhil students back in November 2023 and whilst this post was mostly written back in February, it’s taken me a while longer to get around to finishing it off. I did so last night, whilst watching 2024’s Eurovision Song Contest. I wonder what Paul Valéry would have thought of that?! I certainly found it a bit of a challenge, balancing the experience as I did with checking my quotations and citations, which would at least partially explain any errors*
 
+**The writing of this post has been funded by the [AHRC-RLUK Professional Practice Fellowship](https://www.rluk.ac.uk/ppfs-fellows-2/) Scheme for research and academic libraries.**
+
 *** 
 [^1]: Warburg, A. M. (1995), *Images from the Region of the Pueblo Indians of North America*. Translated by M. P. Steinberg. Cornell University Press. Available at http://www.jstor.org/stable/10.7591/j.ctt1g69xgc 
 [^2]: Bassett, C., & Roberts, B. (2019). *Automation now and then: automation fevers, anxieties and utopias* (Version 1). University of Sussex. Available at https://hdl.handle.net/10779/uos.23474147.v1
