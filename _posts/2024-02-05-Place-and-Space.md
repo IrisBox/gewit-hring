@@ -25,7 +25,7 @@ A few years later in his 1928 essay ‘The conquest of ubiquity’, Paul Valéry
 
 Valéry’s essay directly influenced Walter Benjamin, who made a slightly less mythical comparison than Warburg of likening the magician to the artist and the surgeon to cameraman, before going on to suggest the concept of multiple fragments assembled under a new law (Benjamin, 2008).[^3] Again, our perception of distance is challenged by the technology with which we mediate, and that is something that can inform our practice.
 
-<p align="center">![The Walking with Constable project image]({{site.url}}/images/general/Constable-Collection.png)</p>
+> ![The Walking with Constable project image]({{site.url}}/images/general/Constable-Collection.png)
 
 The [Walking with Constable](https://walking-the-landscape.fitzmuseum.cam.ac.uk/) project is an unusual digital humanities (DH) project. Not least, the technology that facilitates it needed to account for the fact that we wanted to take the digital out of the archive, for a walk, where we didn’t know how reliable the connectivity would be. But through a collective embodied experience that showcases interconnectedness, the project relates digital content back to the landscape from which it was generated and questions our relationship to it in a very personal way. 
 
