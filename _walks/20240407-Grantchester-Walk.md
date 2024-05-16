@@ -2,7 +2,7 @@
 title: "20240407 Grantchester"
 walk_byline: "A spring in your step"
 layout: walk
-date: 2024-04-07
+date: 07-04-2024
 excerpt: "The sun is shining, spring has sprung, time to visit a treasured place."
 preview: http://gewit-hring.com/images/walks/20240407-Grantchester.jpg
 lead_image: http://gewit-hring.com/images/walks/20240407-Grantchester.jpg
