@@ -4,7 +4,8 @@ title: Walks
 permalink: /walks/
 ---
 <section class="mw10 center">
-{% for post in site.walks | sort: "title" | reverse %}
+{% assign walks = site.walks | sort: 'date' | reverse %}
+{% for post in site.walks %}
  <article class="pv4  ph3 ph0-l">
       <div class="flex flex-column flex-row-ns">
         <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
