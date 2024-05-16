@@ -4,7 +4,7 @@ walk_byline: "A stroll a-round a castle"
 layout: walk
 date: 2023-09-22
 excerpt: "Restormel Castle..."
-preview: http://gewit-hring.com/images/posts/20230922_Restormel.jpg
+image: http://gewit-hring.com/images/posts/20230922_Restormel.jpg
 lead_image: http://gewit-hring.com/images/posts/20230922_Restormel.jpg
 alt: 'Approaching Restormel Castle'
 geojson: 20230922-Restormel.json
