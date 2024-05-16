@@ -17,7 +17,7 @@ A space to try. A space to document.
 
 I was always terrible at making notes, and I’ve come to realise that perhaps that is not a reason not to try … and perhaps, it might even be interesting …
 
-Please take a look at the [About]({{site.url}}/about/) page for further info about Gewit-Hring, or about [Andy Corrigan]({{site.url}}/andy-corrigan/). Or explore my [thoughts]({{site.url}}/journal/) and [walks]({{site.url}}/walks/), which may well cross paths and collide. 
+Please take a look at the [About]({{site.url}}/about/) page for further info about Gewit-Hring, or about [Andy Corrigan]({{site.url}}/andy-corrigan/). Or explore my thoughts and walks in my [Journal]({{site.url}}/journal/). 
 
 ### So, why Gewit-Hring?
 Circularity has begun to underpin many avenues of my enquiry and several lines of thought are taking shape around and from it. 
