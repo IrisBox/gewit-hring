@@ -1,5 +1,5 @@
 ---
-layout: walks
+layout: default
 title: Walks
 permalink: /walks/
 ---
