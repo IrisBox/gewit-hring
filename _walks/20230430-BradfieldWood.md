@@ -2,7 +2,7 @@
 title: "20230430 Bradfield Wood"
 walk_byline: "Not merely a mere"
 layout: walk
-date: 2023-04-30
+date: 30-04-2023
 excerpt: "Fowlmere..."
 preview: http://gewit-hring.com/images/walks/20230402_Fowlmere.jpg
 lead_image: http://gewit-hring.com/images/walks/20230402_Fowlmere.jpg
