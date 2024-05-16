@@ -6,7 +6,7 @@ date: 2023-09-22
 excerpt: "Restormel Castle..."
 image: http://gewit-hring.com/images/posts/20230922_Restormel.jpg
 lead_image: http://gewit-hring.com/images/posts/20230922_Restormel.jpg
-alt: 'Approaching Restormel Castle'
+alt: "Approaching Restormel Castle"
 geojson: 20230922-Restormel.json
 centroid: "51.963850, 1.007635"
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-GEOGRAPHY-CF-00075 
