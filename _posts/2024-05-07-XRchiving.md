@@ -101,6 +101,6 @@ A former computer programmer turned neuroscientist, Jamil is also CEO of [The Br
 	*	In the 70’s we used the term “data”
 	*	The 80’s and 90’s, “information”
 	*	In the 2000’s it was all about “knowledge”
-  	*	Now, in the 2020’s we talk about “experience” – this is what XR brings!
+	*	Now, in the 2020’s we talk about “experience” – this is what XR brings!  
 	
 **This post has been funded by the AHRC-RLUK Professional Practice Fellowship Scheme for research and academic libraries.**
