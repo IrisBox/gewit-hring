@@ -23,6 +23,7 @@ Drew Baker (a founding author, now at the Cyprus University of Technology) stres
 *	Only 50% of the UK had broadband.
 *	Barely anyone had an I-Phone.
 *	Social media was in its infancy.
+
 Access wasn’t ubiquitous, and the tools and services weren’t so advanced, but computer graphics were becoming more important, they were becoming a tool in themselves as well as just illustrating things. However, there were a lot of people experimenting and there were a lot of low-quality outputs. So, The London Charter was a response to the need to surface, evidence and promote the academic input and value, to demonstrate the “how” and the “why”. One of the key concepts the Charter envisaged would use to achieve this, is through paradata – the data about the processes, analysis and decisions involved in digital cultural heritage.
 
 I’m familiar with this concept, but my own experiences lead me to question whether we’ve lost sight of the importance of paradata. Its use seems far from universal, and it is something that I have felt for a long time that we could be doing better through the [Cambridge Digital Library]( https://cudl.lib.cam.ac.uk) platform. I’m not so sure of why this is, it’s possible that the creation of paradata isn’t always simple, or its incorporation perhaps viewed as less important than the Charter envisaged? A quick Google out of curiosity might suggest this is the case – the first search result being a site, which although related to aspects of cultural history, turns out to be solely related to data about the history of the UKs Parachute Regiment and Airborne Forces. The second search result is more promisingly a [Wikipedia page]( https://en.wikipedia.org/wiki/Paradata), although the page is focussed more on paradata as information about undertaking a survey, questionnaire or interview. The page’s [“talk” page]( https://en.wikipedia.org/wiki/Talk:Paradata) reveals that perhaps I’m not the only one seeking some relevance to computer visualisations of cultural heritage, so perhaps I should revisit the page and work on updating it?
@@ -97,9 +98,9 @@ A former computer programmer turned neuroscientist, Jamil is also CEO of [The Br
 *	Metadata is one of the biggest problems, if you don’t have metadata, you don’t have context. That might be where AI can come in to help. 
 *	We cannot assume that everything on FLIKR is valuable enough to archive, - how do we decide? We need to be mindful about that. 
 *	The way we talk about these things has changed over the last 40 years:
-  * In the 70’s we used the term “data”
-  * The 80’s and 90’s, “information”
-  * In the 2000’s it was all about “knowledge”
-  * Now, in the 2020’s we talk about “experience” – this is what XR brings!
+  *	In the 70’s we used the term “data”
+  *	The 80’s and 90’s, “information”
+  *	In the 2000’s it was all about “knowledge”
+  *	Now, in the 2020’s we talk about “experience” – this is what XR brings!
 	
 **This post has been funded by the AHRC-RLUK Professional Practice Fellowship Scheme for research and academic libraries.**
