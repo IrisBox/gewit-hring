@@ -7,8 +7,7 @@ excerpt: "The sun is shining, spring has sprung, time to visit a treasured place
 image: http://gewit-hring.com/images/posts/20240407-Grantchester.jpg
 lead_image: http://gewit-hring.com/images/posts/20240407-Grantchester.jpg
 alt: "Blurry photographs taken on the walk along the Cam from Grantchester. They show two images of a beetle scurrying through grass either side of an image of a person's shadow as they walk."
-geojson: 20240407-Grantchester-02a.json
-
+geojson: 20240407-Grantchester-02b.json
 tags: [River,Water,Meadow,Walk]
 ---
 As I set off on this walk I set my activity tracker app recording 
@@ -27,5 +26,3 @@ You could make a graphic design?
 >-- <cite>A graphic design created using the line I walked.</cite>
 
 Does it tell a story?
-
-[See journal?]
