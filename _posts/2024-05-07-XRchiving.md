@@ -66,7 +66,7 @@ Why are libraries so important? – Another challenging question was taken on by
 
 > ![A collage of photos; a psychogeography of this post]({{site.url}}/images/posts/XRchiving-Collage-LR.jpg)
 
-### End Not. [Or is it a beginning?!]
+### End Note. [Or is it a beginning?!]
 This conversation between Tam McDonald (Cradle of English & XRchiving Limited) and Dr Jamil El-Imad (Imperial College London), was an inspiring and invigorating way to top off an excellent day of discussions. I’ve tried to capture a sense of the conversation below:
 
 Tam asked Jamil to reflect: 
@@ -98,9 +98,9 @@ A former computer programmer turned neuroscientist, Jamil is also CEO of [The Br
 *	Metadata is one of the biggest problems, if you don’t have metadata, you don’t have context. That might be where AI can come in to help. 
 *	We cannot assume that everything on FLIKR is valuable enough to archive, - how do we decide? We need to be mindful about that. 
 *	The way we talk about these things has changed over the last 40 years:
-  *	In the 70’s we used the term “data”
-  *	The 80’s and 90’s, “information”
-  *	In the 2000’s it was all about “knowledge”
-  *	Now, in the 2020’s we talk about “experience” – this is what XR brings!
+	*	In the 70’s we used the term “data”
+	*	The 80’s and 90’s, “information”
+	*	In the 2000’s it was all about “knowledge”
+  	*	Now, in the 2020’s we talk about “experience” – this is what XR brings!
 	
 **This post has been funded by the AHRC-RLUK Professional Practice Fellowship Scheme for research and academic libraries.**
