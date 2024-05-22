@@ -5,13 +5,13 @@ date: 2024-05-07
 image: http://gewit-hring.com/images/posts/XRchiving.jpg
 lead_image: http://gewit-hring.com/images/posts/XRchiving.jpg
 alt_text: ""
-excerpt: ""
+excerpt: "The XRchiving conference is an initiative from King’s College London, inspired by the advancing pace of innovation around extended, virtual, augmented, and mixed reality technologies (XR) that are used in digital heritage, place-shaping, and storytelling."
 author: Andy Corrigan
 audio: 
 tags: []
 ---
 ### XRchiving – “Where heritage, data and immersive technology meet.”
-[XRchiving](https://xrchiving.london/), is an initiative from King’s College London, inspired by the advancing pace of innovation around extended, virtual, augmented, and mixed reality technologies (XR) that are used in digital heritage, place-shaping, and storytelling. This event, its second iteration, aimed to showcase, discuss, and encourage collaboration from the galleries, libraries, archives, and museums (GLAM) sector, universities, local communities, public authorities, and architects/designers. Here I’ve tried to summarise some of my key takeaways from the event, many of which have reinforced and invigorated some of my own thinking around my [AHRC-RLUK Professional Practice Fellowship](http://gewit-hring.com/journal/introducing/).
+[XRchiving](https://xrchiving.london/) is an initiative from King’s College London, inspired by the advancing pace of innovation around extended, virtual, augmented, and mixed reality technologies (XR) that are used in digital heritage, place-shaping, and storytelling. This event, its second iteration, aimed to showcase, discuss, and encourage collaboration from the galleries, libraries, archives, and museums (GLAM) sector, universities, local communities, public authorities, and architects/designers. Here I’ve tried to summarise some of my key takeaways from the event, many of which have reinforced and invigorated some of my own thinking around my [AHRC-RLUK Professional Practice Fellowship](http://gewit-hring.com/journal/introducing/).
 
 ### Setting the scene
 Michael Mainelli, the Lord Mayor of the City of London, set the scene for the days discussions with his keynote address entitled ‘History refined by technology: connecting to prosper in the World’s Coffee House’. I find a certain comfort in things that start their journey by looking back to inform forward thinking, there’s something unsettling about attempting to discuss the future without thinking about how we’ve gotten where we are. I was pleasantly surprised at Mainelli’s enthusiasm for embracing psychogeography and flânerie, which he elegantly linked to his mayoral theme [“connect to prosper”](https://www.cityoflondon.gov.uk/about-us/about-the-city-of-london-corporation/lord-mayor/connect-to-prosper). It was also refreshing to hear someone stress the economic benefits the GLAM sector contributes, as he seeks to celebrate the breadth of what he calls ‘knowledge miles’, the density of skill and knowledge, that exists within a two-mile radius of the City of London. 
