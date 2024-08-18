@@ -5,7 +5,7 @@ date: 2024-05-19
 image: http://gewit-hring.com/images/posts/20240519-BlakesUniverse.jpg
 lead_image: http://gewit-hring.com/images/posts/20240519-BlakesUniverse.jpg
 alt_text: ""
-excerpt: "An inspiring wander with a waft of the warmth of harmony."
+excerpt: "Rediscovering a forgotten bridge and taking the scenic route for an inspiring wander with a waft of the warmth of harmony."
 author: Andy Corrigan
 audio: 
 tags: []
@@ -13,12 +13,12 @@ manifestOne: https://api.fitz.ms/data-distributor/iiif/object-725/manifest
 ---
 There are several names that keep cropping up, calling through various cracks in different ways, and one of them is William Blake. The Fitzwilliam Museum’s exhibition [‘William Blake’s Universe’](https://fitzmuseum.cam.ac.uk/plan-your-visit/exhibitions/william-blakes-universe) ran from 23 February – 19 May 2024. It described itself as “timely”, hinting at a contemporary urge to seek spirituality in response to the turbulent times in which we currently find ourselves. Are they ever not turbulent? Regardless, the exhibition was clearly timely for me as it provided an opportunity to delve a little deeper into Blake’s universe as I excavated those cracks through which he was emerging. 
 
-Of course, being perhaps less timely, I’d left it until the last day the exhibition was open to go and see it. After urging myself into action and initiating my journey into Cambridge, the realisation dawned that I was on my way, I was going to make it to the museum, and didn’t need to rush. I could relax. 
+Of course, being perhaps less timely, I’d left it until the last day the exhibition was open to go and see it. After urging myself into action and initiating my journey into Cambridge, the realisation dawned that I was on my way, I was going to make it to the museum, and didn’t need to rush. I could relax. As I strolled down from the University Library, this liberation led to a series of decisions that drew me to avoid the usual more direct route I might walk to Fitzwilliam and seek out a quieter route; one less trodden. 
 
-As I strolled down from the University Library, this liberation led to a series of decisions that drew me to avoid the usual more direct route I might walk to Fitzwilliam and seek out a quieter route, one less trodden. As I made my way through Sheep’s Green, crossed at what always seems like a forgotten bridge over the Cam, and on through Coe Fen, I was rewarded with that sense of how easy it is to feel external to the city in Cambridge whilst being, in this time at least, really quite central. In case the calming sense of having arrived via a slower, more contemplative and tranquil route, wasn’t quite adequate in preparing myself, I also decided to stop and arm myself by having a coffee and a slice of cake. 
+As I made my way across Sheep’s Green, I remembered the somewhat hidden and neglected footbridge that crosses the Cam and leads into Coe Fen. It seems the bridge is not the only forgotten thing - a sunken punt lies rotting in a cranny in the river bank like an elegant old shipwreck. I was rewarded with that sense of how easy it is to feel external to the city in Cambridge whilst being, in this time at least, really quite central. In case the calming sense of having arrived via a slower, more contemplative and tranquil route, wasn’t quite adequate in preparing myself, I also decided to stop and arm myself by having a coffee and a slice of cake. 
 
-![Image: A collage of my walk to Blake's Universe]({{site.url}}/images/posts/20240519-BlakesUniverse-Collage.jpg)
->-- <cite>A collage of my walk to Blake's Universe</cite>
+![Image: A collage of photos from my walk to Blake's Universe]({{site.url}}/images/posts/20240519-BlakesUniverse-Collage.jpg)
+>-- <cite>A collage of photos from my walk to Blake's Universe</cite>
 
 Initially a little underwhelmed by the monotonous palette of the works in the first ‘blue’ room, it took a while to orientate myself amongst what felt like a busy space, both in terms of navigating the number of people there, and the curatorial intent. It felt like a beginning, the start of the story, the preparation for the journey. On recovering from the initial shock of this sudden busyness after my pastoral pilgrimage, and a bit of ambling around the space, things began to settle, and I started to find focus. 
 
