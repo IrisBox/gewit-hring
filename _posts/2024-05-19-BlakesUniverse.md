@@ -44,6 +44,8 @@ Things visually and prophetically heat up in the next, ‘orange and red’, roo
 
 Classical and religious imagery visually harmonises with folkloric voices joining the ensemble, and nature providing a uniting cadence to proceedings. Perhaps prophesising the later Victorian fascination with folklore, or perhaps this particular harmony is just timelessly British? As our journey progresses in the company of a host angels, fairies and orcs, the universality and strength of nature to overcome the oppressive forces of humanity – the church, the state, our understanding and our control.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_B8lQhZGurc?si=eWbOSNLav9HB3bTv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 A cheerful harmonious yellow draws me away from the hot red calamity of the orange/red room, and on into a more positive feeling C19th, accompanied by Faith, Hope and Charity. Despite this positive progress, the value of looking back is not lost – positivity seemingly to be discovered through the influence of Jacob Bohme in balancing opposites to reveal/create unity and harmony. Naturally of course, this involves a great deal of circles, which is another theme that has been ever present in my research. 
 
 The pinnacle of this harmony, and Blake’s work, is of course a reconciliation between Jerusalem and ‘Albion’. Before I leave, I’m reminded that this state of harmony is only made possible through continual spiritual, creative and mental renewal. This seems perfectly apt given the direction my research is taking me and the adventure/journey I’m on.
