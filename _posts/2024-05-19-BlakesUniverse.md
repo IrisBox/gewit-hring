@@ -2,7 +2,7 @@
 title: "Blake's Universe"
 layout: post
 date: 2024-05-19
-image: http://gewit-hring.com/images/posts/XRchiving.jpg
+image: http://gewit-hring.com/images/posts/20240519-BlakesUniverse.jpg
 lead_image: http://gewit-hring.com/images/posts/20240519-BlakesUniverse.jpg
 alt_text: ""
 excerpt: "An inspiring wander with a waft of the warmth of harmony."
