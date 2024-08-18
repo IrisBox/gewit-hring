@@ -7,7 +7,8 @@ lead_image: http://gewit-hring.com/images/posts/20240519-BlakesUniverse.jpg
 alt_text: ""
 excerpt: "Rediscovering a forgotten bridge and taking the scenic route for an inspiring wander with a waft of the warmth of harmony."
 author: Andy Corrigan
-audio: 
+audio:
+geojson: 20240519-BlakesUniverse.json
 tags: []
 manifestOne: https://api.fitz.ms/data-distributor/iiif/object-725/manifest
 ---
