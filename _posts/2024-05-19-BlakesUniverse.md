@@ -46,5 +46,3 @@ A cheerful harmonious yellow draws me away from the hot red calamity of the oran
 The pinnacle of this harmony, and Blake’s work, is of course a reconciliation between Jerusalem and ‘Albion’. Before I leave, I’m reminded that this state of harmony is only made possible through continual spiritual, creative and mental renewal. This seems perfectly apt given the direction my research is taking me and the adventure/journey I’m on.
 
 My eye catches a rainbow, cast on a windowsill by the first view of the outside world, as I leave the exhibition and weave my way out through the other galleries at the museum in order to maximise the chance of any potential encounters as my mind spun around in its orbit of Blake’s universe. The other thing that catches my attention are some seemingly floating bronze votive figures from pre-Roman Umbria. A reminder of humanities capacity to embrace anthropological fetishism and the complex nature of our relationship to things we don’t understand. 
-	
-**This post has been funded by the AHRC-RLUK Professional Practice Fellowship Scheme for research and academic libraries.**
