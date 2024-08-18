@@ -17,6 +17,9 @@ Of course, being perhaps less timely, I’d left it until the last day the exhib
 
 As I strolled down from the University Library, this liberation led to a series of decisions that drew me to avoid the usual more direct route I might walk to Fitzwilliam and seek out a quieter route, one less trodden. As I made my way through Sheep’s Green, crossed at what always seems like a forgotten bridge over the Cam, and on through Coe Fen, I was rewarded with that sense of how easy it is to feel external to the city in Cambridge whilst being, in this time at least, really quite central. In case the calming sense of having arrived via a slower, more contemplative and tranquil route, wasn’t quite adequate in preparing myself, I also decided to stop and arm myself by having a coffee and a slice of cake. 
 
+![Image: A collage of my walk to Blake's Universe]({{site.url}}/images/posts/20240519-BlakesUniverse-Collage.jpg)
+>-- <cite>A collage of my walk to Blake's Universe</cite>
+
 Initially a little underwhelmed by the monotonous palette of the works in the first ‘blue’ room, it took a while to orientate myself amongst what felt like a busy space, both in terms of navigating the number of people there, and the curatorial intent. It felt like a beginning, the start of the story, the preparation for the journey. On recovering from the initial shock of this sudden busyness after my pastoral pilgrimage, and a bit of ambling around the space, things began to settle, and I started to find focus. 
 
 In addition to its role as a starting point to the exhibition, for me this blue room emphasised the importance of simplicity, of learning from what came before in order to prepare yourself for what is to come. The blurring of boundaries begins:
