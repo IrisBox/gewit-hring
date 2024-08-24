@@ -51,7 +51,7 @@ Leaves and seeds.
 ![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-13.png)
 
 A picture frame.
-![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-14.png)
+![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-14.jpg)
 
 Struggling trees.
-![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-15-Struggling-Trees.png)
+![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-15-Struggling-Trees.jpg)
