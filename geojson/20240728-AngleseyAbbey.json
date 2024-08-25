@@ -43278,7 +43278,8 @@
 	        "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "1) Summer flowers and a butterfly in the Winter Garden."
+	          "name": "1) Summer flowers and a butterfly in the Winter Garden."
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#1-three-summer-flowers-and-a-butterfly-in-the-winter-garden"
 	     	 },
 	         "geometry": 
 		 {
@@ -43294,8 +43295,9 @@
 	        "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "2) A muse? - Statue with paint brush and palette, Emperor’s Walk."
-	     	 },
+	          "name": "2) A muse? - Statue with paint brush and palette, Emperor’s Walk."
+	     	  "link": "https://gewit-hring.com/journal/angleseyabbey#2-a-muse---statue-with-paint-brush-and-palette-emperors-walk" 
+		 },
 	         "geometry": 
 		 {
 	          "type": "Point",
