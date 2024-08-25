@@ -17,6 +17,11 @@
             </h2>
 
             <div class="lh-copy f5 f4-ns fw3 black-80 mv3 mv4-ns">
+                {% if page.geojson %}
+                    <section class="w-100 pv4">
+                    <div id="map"></div>
+                    </section>
+                {% endif %}
                 {{ page.content }}
             </div>
 
@@ -24,11 +29,6 @@
               {% include universal-viewer.html %}
             {% endif %}
 
-            {% if page.geojson %}
-            <section class="w-100 pv4">
-                <div id="map"></div>
-            </section>
-            {% endif %}
             {% include audio.html %}
 
             {% include post_tags.html %}
