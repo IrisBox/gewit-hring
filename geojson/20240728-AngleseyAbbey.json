@@ -43278,8 +43278,8 @@
 	        "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "1) Summer flowers and a butterfly in the Winter Garden.",
-		  "link": "https://gewit-hring.com/journal/angleseyabbey#1-three-summer-flowers-and-a-butterfly-in-the-winter-garden"
+	          "name": "1) Summer flowers and a butterfly in the Winter Garden",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#1"
 	     	 },
 	         "geometry": 
 		 {
@@ -43295,8 +43295,8 @@
 	        "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "2) A muse? - Statue with paint brush and palette, Emperor’s Walk.",
-	     	  "link": "https://gewit-hring.com/journal/angleseyabbey#2-a-muse---statue-with-paint-brush-and-palette-emperors-walk" 
+	          "name": "2) A muse? - Statue with paint brush and palette, Emperor’s Walk",
+	     	  "link": "https://gewit-hring.com/journal/angleseyabbey#2" 
 		 },
 	         "geometry": 
 		 {
@@ -43312,8 +43312,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "3) A stumpy tree in an statuesque avenue.",
-		  "link": "https://gewit-hring.com/journal/angleseyabbey#3-a-stumpy-tree-standing-out-in-an-avenue-of-more-statuesque-trees"	 
+	          "name": "3) A stumpy tree in an statuesque avenue",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#3"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43329,8 +43329,25 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "4) Skylight Garden.",
-		  "link": "https://gewit-hring.com/journal/angleseyabbey#4-skylight-garden"	 
+	          "name": "4) A struggling tree",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#4"	 
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.24036911171106112,
+         	  52.239645698671126
+	         ]
+	      	 }
+	},  
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "name": "5) Skylight Garden",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#5"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43346,8 +43363,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "5) Richard Relhan.",
-		  "link": "https://gewit-hring.com/journal/angleseyabbey#5-richard-relhan"	 
+	          "name": "6) Richard Relhan",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#6"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43363,8 +43380,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "6) The four hermai",
-		  "link": "https://gewit-hring.com/journal/angleseyabbey#6-new-roses-in-the-rose-garden"	 
+	          "name": "7) The four hermai",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#7"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43380,8 +43397,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "7) A rest with leaves and seeds.",
-		  "link": "https://gewit-hring.com/journal/angleseyabbey#7-leaves-and-seeds" 			 
+	          "name": "8) A rest with leaves and seeds",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#8" 			 
 	     	 },
 	         "geometry": 
 		 {
@@ -43397,8 +43414,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "name": "8) Picture Frame.",
-		  "link": "https://gewit-hring.com/journal/angleseyabbey#8-a-picture-frame"			 
+	          "name": "9) Picture Frame",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#9"			 
 	     	 },
 	         "geometry": 
 		 {
@@ -43407,6 +43424,23 @@
 		 [
 	          0.23973036733380582,
                   52.2363101629748
+	         ]
+	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "name": "10) Another struggling tree",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#10"			 
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.24016719989745638,
+         	  52.23630548240379
 	         ]
 	      	 }
 	}  
