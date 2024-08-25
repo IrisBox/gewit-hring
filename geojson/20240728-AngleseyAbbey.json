@@ -43273,6 +43273,134 @@
           ]
         ]
       }
-    }
+    },
+	{
+	        "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "1) Summer flowers and a butterfly in the Winter Garden."
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.24338940141362286,
+	          52.23800760027032
+	         ]
+	      	 }
+	},  
+	{
+	        "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "2) A muse? - Statue with paint brush and palette, Emperor’s Walk."
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.24263959290018988,
+	          52.237798675815924
+	         ]
+	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "3) A stumpy tree in an statuesque avenue."
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.24093274309197454,
+		  52.23870857975925
+	         ]
+	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "4) Skylight Garden."
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.24225043095702858,
+          	  52.23912011412233
+	         ]
+	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "5) Richard Relhan."
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.2395735847193805,
+          	  52.23686806446403
+	         ]
+	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "6) The four hermai"
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.2380438050882674,
+                  52.23688594668994
+	         ]
+	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "7) A rest with leaves and seeds."
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.23865590920098612,
+                  52.23641988154236
+	         ]
+	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "label": "8) Picture Frame."
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.23973036733380582,
+                  52.2363101629748
+	         ]
+	      	 }
+	}  
   ]
 }
