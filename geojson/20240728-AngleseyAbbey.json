@@ -43312,7 +43312,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "3) A stumpy tree in an statuesque avenue."
+	          "name": "3) A stumpy tree in an statuesque avenue.",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#3-a-stumpy-tree-standing-out-in-an-avenue-of-more-statuesque-trees"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43328,7 +43329,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "4) Skylight Garden."
+	          "name": "4) Skylight Garden.",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#4-skylight-garden"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43344,7 +43346,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "5) Richard Relhan."
+	          "name": "5) Richard Relhan.",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#5-richard-relhan"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43360,7 +43363,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "6) The four hermai"
+	          "name": "6) The four hermai",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#6-new-roses-in-the-rose-garden"	 
 	     	 },
 	         "geometry": 
 		 {
@@ -43376,7 +43380,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "7) A rest with leaves and seeds."
+	          "name": "7) A rest with leaves and seeds.",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#7-leaves-and-seeds" 			 
 	     	 },
 	         "geometry": 
 		 {
@@ -43392,7 +43397,8 @@
 		 "type": "Feature",
 	         "properties": 
 		 {
-	          "label": "8) Picture Frame."
+	          "name": "8) Picture Frame.",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#8-a-picture-frame"			 
 	     	 },
 	         "geometry": 
 		 {
