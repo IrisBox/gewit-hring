@@ -9,10 +9,9 @@ excerpt: "Making a new friend on a walk around Anglesey Abbey. Looking up, aroun
 author: Andy Corrigan
 audio:
 geojson: 20240728-AngleseyAbbey.json
-manifestOne: https://cudl.lib.cam.ac.uk//iiif/MS-DAR-00178 
-manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-00731 
-manifestThree: https://cudl.lib.cam.ac.uk//iiif/PH-NRI-00002-00010-00001-00001-00008-00004
-manifestFour: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-00731 
+manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PH-NRI-00002-00010-00001-00001-00008-00004
+manifestThree: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
 tags: []
 ---
 ### 1) 
@@ -38,7 +37,7 @@ Catalpa bignonioides ID.
 Catalpa bignonioides - a portrait.
 ![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-04-Catalpa-bignonioides-a-Portrait.jpg)
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://gist.githubusercontent.com/IrisBox/a8cfe3b56f484fb6a572cb5d55766f3c/raw/b433d61d8f0069c365a1454dd399252cfd3baa0a/MS-DAR-00178.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-2692,-307,8669,6130&r=0" width="560" height="420" allowfullscreen frameborder="0"></iframe>
 
 ### 4) 
 A struggling tree, a sycamore(?).
@@ -56,9 +55,9 @@ Skylight Garden.
 Skylight Garden.
 ![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-09-Skylight-Garden.jpg)
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestThree }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
 
 ### 6) 
 Richard Relhan
@@ -68,7 +67,7 @@ Richard Relhan
 R. Relhan 2.
 ![Image: Three summer flowers and a butterfly in the Winter Garden]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-11-House.jpg)
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFour }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestThree }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
 
 ### 7)  
 New roses and old marble in the Rose Garden.
