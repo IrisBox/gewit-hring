@@ -94,3 +94,8 @@ A picture frame
 Another struggling tree, a small oak. 
 
 ![Image: A small oak tree with many bare branches. Those with leaves are a yellowish sap green]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-16-Struggling-Tree.png)
+
+### 11)
+A bloom in the wild.
+
+![Image: A small oak tree with many bare branches. Those with leaves are a yellowish sap green]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-Wild.jpg)
