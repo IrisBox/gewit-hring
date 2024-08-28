@@ -43443,6 +43443,23 @@
          	  52.23630548240379
 	         ]
 	      	 }
+	},
+	{
+		 "type": "Feature",
+	         "properties": 
+		 {
+	          "name": "11) A bloom in the wild...[flowerbed]",
+		  "link": "https://gewit-hring.com/journal/angleseyabbey#11"			 
+	     	 },
+	         "geometry": 
+		 {
+	          "type": "Point",
+	          "coordinates": 
+		 [
+	          0.24487634087614651,
+         	  52.23624253439519
+	         ]
+	      	 }
 	}  
   ]
 }
