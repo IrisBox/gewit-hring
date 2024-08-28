@@ -98,4 +98,4 @@ Another struggling tree, a small oak.
 ### 11)
 A bloom in the wild.
 
-![Image: A small oak tree with many bare branches. Those with leaves are a yellowish sap green]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-Wild.jpg)
+![Image: A small oak tree with many bare branches. Those with leaves are a yellowish sap green]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-17-WildOne.jpg)
