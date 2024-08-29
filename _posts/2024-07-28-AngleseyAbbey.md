@@ -38,7 +38,7 @@ A stumpy tree standing out in an avenue of more statuesque trees.
 
 ![Image: A panoramic photo of an avenue of tall trees. A single small tree is indicated in a circle, the remainder of the image lightened]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-03.jpg)
 
-[Pl@ntNet](https://plantnet.org/en/) App, a citizen science project, identifies the tree as (*Catalpa bignonioides*)[https://en.wikipedia.org/wiki/Catalpa_bignonioides].
+[Pl@ntNet](https://plantnet.org/en/) App, a citizen science project, identifies the tree as [*Catalpa bignonioides*](https://en.wikipedia.org/wiki/Catalpa_bignonioides).
 ![Image: A series of screenshots of a plant identification App, showing the percentage chance of a correct identification increasing.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-05.gif)
 
 *Catalpa bignonioides* - a gnarly portrait.
