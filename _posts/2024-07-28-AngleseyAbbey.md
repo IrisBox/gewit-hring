@@ -48,7 +48,7 @@ A stumpy tree standing out in an avenue of more statuesque trees.
 
 On 31 May 1874, William Thiselton-Dyer wrote to Charles Darwin to share some observations of the movement of plants. Fellow botanist Thomas Meehan had recently observed movement of the stigma lobes in Catalpa flowers manually stimulated by a syringing technique.
 
-<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://gist.githubusercontent.com/IrisBox/a8cfe3b56f484fb6a572cb5d55766f3c/raw/b433d61d8f0069c365a1454dd399252cfd3baa0a/MS-DAR-00178.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-2692,-307,8669,6130&r=0" width="560" height="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://gist.githubusercontent.com/IrisBox/a8cfe3b56f484fb6a572cb5d55766f3c/raw/b433d61d8f0069c365a1454dd399252cfd3baa0a/MS-DAR-00178.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-2692,-307,8669,6130&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe>
 
 - [*'Catalpa bignonioides'*](https://en.wikipedia.org/wiki/Catalpa_bignonioides)
 - [*'Letter no. 9478'*, Darwin Correspondence Project](https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9478.xml)
