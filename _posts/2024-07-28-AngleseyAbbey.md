@@ -40,7 +40,7 @@ A stumpy tree standing out in an avenue of more statuesque trees.
 
 [Pl@ntNet](https://plantnet.org/en/) App, a citizen science project, identifies the tree as [*Catalpa bignonioides*](https://en.wikipedia.org/wiki/Catalpa_bignonioides).
 
-![Image: A series of screenshots of a plant identification App, showing the percentage chance of a correct identification increasing.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-05.gif)
+![Image: A series of screenshots of a plant identification App, showing the percentage chance of a correct identification increasing.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-05.jpg)
 
 *Catalpa bignonioides* - a gnarly portrait.
 
