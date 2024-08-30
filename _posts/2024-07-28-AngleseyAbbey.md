@@ -123,11 +123,11 @@ Leaves and seeds, from a Norway Maple(?), taking a rest in the shade.
 - [Maple, Norway](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/norway-maple/)
 
 ### 9) 
-A picture frame.
+A picture frame, framing a scene.
 
-![Image: An empty gilded frame captures the view of Anglesey Abbey, next to a board showing a painting of the scene.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-15.jpg)
+![Image: An empty gilded frame captures the view of Anglesey Abbey and a child running across the lawn. Next to the frame, a board showing a painting of the scene.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-15.jpg)
 
-- Watercolour painting, Anglesey Abbey, Cambridgeshire ????
+- *'Anglesey Abbey'*, by Leonard Russell Squirrell, 1965, [NT 513875](https://www.nationaltrustcollections.org.uk/object/513875).
 
 ### 10) 
 Another struggling tree, a small oak. 
@@ -137,4 +137,4 @@ Another struggling tree, a small oak.
 ### 11)
 A bloom in the wild ... [flower bed].
 
-![Image: A small oak tree with many bare branches. Those with leaves are a yellowish sap green]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-17-WildOne.jpg)
+![Image: A series of nine circular images arranged into three rows and three columns. The central image shows a singular vivid pink poppy flower, the petals edged with white. The eight surrounding images show a multitude of summer wildflowers in numerous colours.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-17-WildOne.jpg)
