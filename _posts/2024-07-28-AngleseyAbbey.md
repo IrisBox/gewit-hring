@@ -5,7 +5,7 @@ date: 2024-07-28
 image: http://gewit-hring.com/images/posts/20240728-AngleseyAbbey.jpg
 lead_image: http://gewit-hring.com/images/posts/20240728-AngleseyAbbey.jpg
 alt_text: "A peacock butterfly on some lavender in the sunshine with its wings slightly ajar "
-excerpt: "Making a new friend on a walk around Anglesey Abbey. Looking up, around and on. A visual essay walk."
+excerpt: "Making new friends on a walk around Anglesey Abbey. Looking up, around and on. A visual essay walk."
 author: Andy Corrigan
 audio:
 geojson: 20240728-AngleseyAbbey.json
@@ -14,6 +14,8 @@ manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PH-NRI-00002-00010-00001-00001-000
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
 tags: []
 ---
+***Making new friends on a walk around Anglesey Abbey. Looking up, around and on. A visual essay walk.***
+
 ### 1) 
 Three summer flowers and a butterfly in the Winter Garden.
 
