@@ -9,6 +9,7 @@ excerpt: "The path less taken. I go on a quest to seek insight by walking a laby
 author: Andy Corrigan
 audio:
 geojson: 20240626-Labyrinth.json
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/MS-II-00006-00032 
 tags: []
 ---
 [‘Labyrinth: The Path Less Taken’](https://www.jesus.cam.ac.uk/events/labyrinth-path-less-taken) was brought to my attention by Kate Noble, my fellowship mentor. My curiosity sparked, the link between the concept of walking a labyrinth and the notions I’ve been exploring of walking and circularity are palpable. I wasn’t entirely sure what to expect or how truly relevant it might be, but it felt like something I should do - it was too coincidental. I wondered if it could lead to any insight and if there might be a meaningful way to incorporate something digital into such a process.
@@ -60,3 +61,10 @@ Did I achieve what I set out to? I’m still not entirely sure what it was I set
 The ‘Labyrinth’, is a concept developed by [Brian Draper](https://www.briandraper.org/) and delivered in collaboration with [Artesian](https://www.artesiangroup.co.uk/labyrinth).
 
 **This post has been funded by the AHRC-RLUK Professional Practice Fellowship Scheme for research and academic libraries.**
+
+Knotwork borders in the *Book of Deer (MS Ii.6.32)* perhaps share an affinity with labyrinth concepts (Pennick, 1990, p.46).[^1]
+
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+
+*** 
+[^1]:Pennick, Nigel (1990) *Mazes and Labyrinths*. London: Robert Hale.
