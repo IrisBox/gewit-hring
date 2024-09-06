@@ -1,5 +1,5 @@
 ---
-title: "Raisins aren’t all that bad"
+title: "Labyrinth: Raisins aren’t all that bad"
 layout: post
 date: 2024-06-26
 image: http://gewit-hring.com/images/posts/20240626-Labyrinth.jpg
