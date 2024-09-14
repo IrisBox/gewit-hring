@@ -2,8 +2,8 @@
 title: "Hunting Hayley Bluebells"
 layout: post
 date: 2024-05-06
-image: http://gewit-hring.com/images/posts/20240506_115831.jpg
-lead_image: http://gewit-hring.com/images/posts/2024-05-06-BluebellHunting.jpg
+image: http://gewit-hring.com/images/posts/2024-05-06-BluebellHunting.jpg
+lead_image: http://gewit-hring.com/images/posts/20240506_115831.jpg
 alt_text: "A collage of photographs of woodland scenes in spring, tracks, oxlips, bluebells and flooded areas."
 excerpt: "I always like to squeeze in as many hunts for bluebells as I can every spring."
 author: Andy Corrigan
