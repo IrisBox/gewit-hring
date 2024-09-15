@@ -16,6 +16,11 @@ tags: []
 ---
 ***Making new friends on a walk around Anglesey Abbey. Looking up, around and on. A visual essay walk.***
 
+I was inspired to undertake this walk after reading Rebecca Solnit's chapter *'Labyrinths and Cadillacs'* in her book *'Wanderlust'*:
+> *“Many gardens were sculpture gardens, […] whole spaces that could be read, making the garden as much an intellectual space as the library.
+> […] in the space and time of the walk and its encounter with the statuary, the story was in a sense retold just by being called to mind."* 
+> (Solnit, 2022, p. 74)[^1]  
+
 ### 1) 
 Three summer flowers and a butterfly in the Winter Garden.
 
@@ -140,3 +145,6 @@ Another struggling tree, a small oak.
 A bloom in the wild ... [flower bed].
 
 ![Image: A series of nine circular images arranged into three rows and three columns. The central image shows a singular vivid pink poppy flower, the petals edged with white. The eight surrounding images show a multitude of summer wildflowers in numerous colours.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-17-WildOne.jpg)
+
+*** 
+[^1]: Solnit, R. (2022), *Wanderlust*. London: Granta Books. 
