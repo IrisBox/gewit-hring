@@ -17,9 +17,9 @@ tags: []
 ***Making new friends on a walk around Anglesey Abbey. Looking up, around and on. A visual essay walk.***
 
 I was inspired to undertake this walk after reading Rebecca Solnit's chapter *'Labyrinths and Cadillacs'* in her book *'Wanderlust'*:
-> *“Many gardens were sculpture gardens, […] whole spaces that could be read, making the garden as much an intellectual space as the library.
-> […] in the space and time of the walk and its encounter with the statuary, the story was in a sense retold just by being called to mind."* 
-> (Solnit, 2022, p. 74)[^1]  
+> *“Many gardens were sculpture gardens, […] whole spaces that could be read, making the garden as much an intellectual space as the library.  
+> […] in the space and time of the walk and its encounter with the statuary, the story was in a sense retold just by being called to mind."*   
+> (Solnit, 2022, p. 74-75)[^1]  
 
 ### 1) 
 Three summer flowers and a butterfly in the Winter Garden.
