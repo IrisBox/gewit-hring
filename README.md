@@ -1,6 +1,8 @@
 # Gewit-Hring
 
-[//]: # Add DOI to Zenodo when It's set up!   
+
+[![DOI](https://zenodo.org/badge/681566733.svg)](https://zenodo.org/doi/10.5281/zenodo.13809688)
+
 
 ![Repository social card](https://raw.githubusercontent.com/IrisBox/gewit-hring/main/images/Gewit-Hring-MediaCard.jpg)
 
