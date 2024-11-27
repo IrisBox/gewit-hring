@@ -6,7 +6,7 @@
 
 ![Repository social card](https://raw.githubusercontent.com/IrisBox/gewit-hring/main/images/Gewit-Hring-MediaCard.jpg)
 
-This repository holds the code and content for a personal jounral by Andy Corrigan
+This repository holds the code and content for a personal journal by Andy Corrigan
 
 * [Andrew Corrigan, Cambridge Digital Humanities](https://walking-the-landscape.fitzmuseum.cam.ac.uk/team/andrew-corrigan)
 
