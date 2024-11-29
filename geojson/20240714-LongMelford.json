@@ -47637,6 +47637,279 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "1A) Still to come..."
+      },
+      "geometry": {
+        "coordinates": [
+          0.7232648944012396,
+          52.08346646301658
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "1B) Water Lilly"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7220753665987445,
+          52.08262014982603
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "1C) Dainty Flower"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7220320255722802,
+          52.08262987786401
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "2A) Still to come..."
+      },
+      "geometry": {
+        "coordinates": [
+          0.721730213575436,
+          52.08298232931486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "2B) Still to come..."
+      },
+      "geometry": {
+        "coordinates": [
+          0.7217191759137334,
+          52.08288731637637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "2C) Still to come..."
+      },
+      "geometry": {
+        "coordinates": [
+          0.721655596806251,
+          52.08283742079749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "2D) Still to come..."
+      },
+      "geometry": {
+        "coordinates": [
+          0.7216110440511128,
+          52.0827308971941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "3A) Reflected Grass"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7220694305264697,
+          52.08262351736656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "3B) Damsel Fly"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7220300099987044,
+          52.08262816856933
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "3C) Side Table"
+      },
+      "geometry": {
+        "coordinates": [
+          0.722527204181167,
+          52.082682070720836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "3D) Stained Glass Window"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7227222312320646,
+          52.08255078535376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "4) Reflected Roof"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7220260013919387,
+          52.08262261516732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "5) Balusters"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7226578556587385,
+          52.08240369243538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "6) Glass Stem & Chandelier"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7226630000322464,
+          52.08270395101644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "7A) Chair"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7226114035711362,
+          52.08275642270547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "7B & C) Orchid & Butterfly"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7234298953253765,
+          52.08322313357448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "8A) Marble Carving"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7225658085978021,
+          52.08278751342894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "8B & C) Rose"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7237964237758281,
+          52.083079350194936
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "9A) Banquet House through window"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7225218960699399,
+          52.08281786094537
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "9B) Banquet House"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7230948810212112,
+          52.083221226054604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "10) Sentinel Trees"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7294358488737864,
+          52.08435552274065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "1) Still to come..."
       },
       "geometry": {
