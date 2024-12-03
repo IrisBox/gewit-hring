@@ -18,6 +18,8 @@
 
             <div class="lh-copy f5 f4-ns fw3 black-80 mv3 mv4-ns">
                 {% if page.geojson %}
+                
+                {% include audio.html %}
                     <section class="w-100 pv4">
                     <div id="map"></div>
                     </section>
@@ -28,8 +30,6 @@
             {% if page.manifest %}
               {% include universal-viewer.html %}
             {% endif %}
-
-            {% include audio.html %}
 
             {% include post_tags.html %}
 
