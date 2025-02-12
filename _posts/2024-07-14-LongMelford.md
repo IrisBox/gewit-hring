@@ -17,7 +17,7 @@ tags: []
 ### 1) 
 Text..
 
-![Image: A series of nine circular images arranged into three rows and three columns. Three images of individual flowers are repeated in the top and bottom rows, and the middle row images get progressively closer to a butterfly.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-01.jpg)
+![Image: A series of nine circular images arranged into three rows and three columns. Three images of individual flowers are repeated in the top and bottom rows, and the middle row images get progressively closer to a butterfly.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-01.jpg)
 
 [Calendula](https://en.wikipedia.org/wiki/Calendula_officinalis), [Nigella (Love-in-a-Mist)](https://en.wikipedia.org/wiki/Nigella_damascena), [California poppy](https://en.wikipedia.org/wiki/Eschscholzia_californica), [Peacock butterfly](https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/peacock) flittering around [lavender](https://en.wikipedia.org/wiki/Lavandula). A place to sit. Summer in the Winter Garden. 
 
