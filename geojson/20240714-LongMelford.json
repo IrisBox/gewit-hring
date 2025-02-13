@@ -47637,7 +47637,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "1A) Still to come...",
+        "name": "1A) Still to come...",
         "link": "https://gewit-hring.com/journal/longmelford/#1"	
       },
       "geometry": {
@@ -47651,7 +47651,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "1B) Water Lilly",
+        "name": "1B) Water Lilly",
         "link": "https://gewit-hring.com/journal/longmelford/#1"
       },
       "geometry": {
@@ -47665,7 +47665,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "1C) Dainty Flower",
+        "name": "1C) Dainty Flower",
         "link": "https://gewit-hring.com/journal/longmelford/#1"
       },
       "geometry": {
@@ -47679,7 +47679,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "2A) Still to come...",
+        "name": "2A) Still to come...",
         "link": "https://gewit-hring.com/journal/longmelford/#2"
       },
       "geometry": {
@@ -47693,7 +47693,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "2B) Still to come...",
+        "name": "2B) Still to come...",
         "link": "https://gewit-hring.com/journal/longmelford/#2"
       },
       "geometry": {
@@ -47707,7 +47707,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "2C) Still to come...",
+        "name": "2C) Still to come...",
         "link": "https://gewit-hring.com/journal/longmelford/#2"
       },
       "geometry": {
@@ -47721,7 +47721,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "2D) Still to come...",
+        "name": "2D) Still to come...",
         "link": "https://gewit-hring.com/journal/longmelford/#2"
       },
       "geometry": {
@@ -47735,7 +47735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "3A) Reflected Grass",
+        "name": "3A) Reflected Grass",
         "link": "https://gewit-hring.com/journal/longmelford/#3"
       },
       "geometry": {
@@ -47749,7 +47749,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "3B) Damsel Fly",
+        "name": "3B) Damsel Fly",
         "link": "https://gewit-hring.com/journal/longmelford/#3"
       },
       "geometry": {
@@ -47763,7 +47763,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "3C) Side Table",
+        "name": "3C) Side Table",
         "link": "https://gewit-hring.com/journal/longmelford/#3"
       },
       "geometry": {
@@ -47777,7 +47777,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "3D) Stained Glass Window",
+        "name": "3D) Stained Glass Window",
         "link": "https://gewit-hring.com/journal/longmelford/#3"
       },
       "geometry": {
@@ -47791,7 +47791,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "4) Reflected Roof",
+        "name": "4) Reflected Roof",
         "link": "https://gewit-hring.com/journal/longmelford/#4"
       },
       "geometry": {
@@ -47805,7 +47805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "5) Balusters",
+        "name": "5) Balusters",
         "link": "https://gewit-hring.com/journal/longmelford/#5"
       },
       "geometry": {
@@ -47819,7 +47819,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "6) Glass Stem & Chandelier",
+        "name": "6) Glass Stem & Chandelier",
         "link": "https://gewit-hring.com/journal/longmelford/#6"
       },
       "geometry": {
@@ -47833,7 +47833,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "7A) Chair",
+        "name": "7A) Chair",
         "link": "https://gewit-hring.com/journal/longmelford/#7"
       },
       "geometry": {
@@ -47847,7 +47847,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "7B & C) Orchid & Butterfly",
+        "name": "7B & C) Orchid & Butterfly",
         "link": "https://gewit-hring.com/journal/longmelford/#7"
       },
       "geometry": {
@@ -47861,7 +47861,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "8A) Marble Carving",
+        "name": "8A) Marble Carving",
         "link": "https://gewit-hring.com/journal/longmelford/#8"
       },
       "geometry": {
@@ -47875,7 +47875,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "8B & C) Rose",
+        "name": "8B & C) Rose",
         "link": "https://gewit-hring.com/journal/longmelford/#8"
       },
       "geometry": {
@@ -47889,7 +47889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "9A) Banquet House through window",
+        "name": "9A) Banquet House through window",
         "link": "https://gewit-hring.com/journal/longmelford/#9"
       },
       "geometry": {
@@ -47903,7 +47903,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "9B) Banquet House",
+        "name": "9B) Banquet House",
         "link": "https://gewit-hring.com/journal/longmelford/#9"
       },
       "geometry": {
@@ -47917,7 +47917,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "10) Sentinel Trees",
+        "name": "10) Sentinel Trees",
         "link": "https://gewit-hring.com/journal/longmelford/#10"
       },
       "geometry": {
@@ -47931,7 +47931,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "1) Still to come...",
+        "name": "1) Still to come...",
         "link": "https://gewit-hring.com/journal/longmelford/#11"
       },
       "geometry": {
@@ -47945,7 +47945,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "2) Also still to come...",
+        "name": "2) Also still to come...",
         "link": "https://gewit-hring.com/journal/longmelford/#11"
       },
       "geometry": {
