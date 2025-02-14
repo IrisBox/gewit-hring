@@ -45,7 +45,7 @@ Selective focus. Reflections and ripples.
 
 ![Image: Two black and white photos of the same scene arranged one above the other. The scene shows two of Melford Hall's turrets and flag pole reflected in the surface of the pond -  The upper photo is focussed on the reflection, the lower is focussed on the water surface, which has ripples and a pond skater.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="81" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="81" data-xywh="0" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 ### 5) 
 What goes up, must come down/upstairs downstairs.
@@ -62,7 +62,7 @@ Inside Out, outside in.
 
 ![Image: A background photo of a bright purple pyramidal orchid flower is overlain by two additional smaller photos in the top-left and bottom-right quarters. The top-left image shows a gatekeeper butterfly feeding from a yellow hawkweed flower. The butterfly has orange wings edged with brown, and has a distinctive black spot with two white "pupil" markings on each forewing, and the petals of the flowers is each tipped with five lobe shaped scalloped edge, resembling very tiny flattened marigold washing up gloves. The bottom right image shows a wooden chair in front of some period interior wall mouldings, the chair has been elaborately decorated with finely detailed marquetry in floral and foliage designs, the chair splat additionally features an urn design at the base and a small bird in the upper centre.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-07.jpg)
 
-A-top a luminous [pyramidal orchid](https://en.wikipedia.org/wiki/Anacamptis_pyramidalis), a beady-eyed [gatekeeper butterfly](https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/gatekeeper) feeds from washing-up glove flowers - [hawkweed](https://en.wikipedia.org/wiki/Hieracium) - and nature enshrined in marquetry casts a shadow from the window light.  
+A-top a luminous [pyramidal orchid](https://en.wikipedia.org/wiki/Anacamptis_pyramidalis), a beady-eyed [gatekeeper butterfly](https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/gatekeeper) feeds from washing-up glove flowers - [hawkweed](https://en.wikipedia.org/wiki/Hieracium) - and nature enshrined in marquetry casts a shadow on the wall from the window light.  
 
 ### 8) 
 text... 
