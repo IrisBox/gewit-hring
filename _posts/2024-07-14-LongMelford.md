@@ -14,7 +14,7 @@ manifestTwo: https://iiif.vam.ac.uk/collections/O18366/manifest.json
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
 tags: []
 ---
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00112.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="35" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:560px; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00112.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="35" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 > *“On the Green at Long Melford are three great elms, probably U. procera. About 5ft diam. Two are probably over 100ft high.”*
 > Oliver Rackham, Notebook 112, 1967 (CCCC14/6/2/1/112) 
@@ -24,7 +24,7 @@ As above, so below?
 
 ![Image: Three square black and white photos of plants arranged in an "L" shape, repeated three more times, increasingly smaller, creating a sense of perspective.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-01.jpg)
 
-A fresh young [Oak](https://en.wikipedia.org/wiki/Oak) leaf emerging, graceful [Common water-plantain](https://en.wikipedia.org/wiki/Alisma_plantago-aquatica), and [white waterlily](https://en.wikipedia.org/wiki/Nymphaea_alba) reflecting in stillness.
+A fresh young [Oak](https://en.wikipedia.org/wiki/Oak) leaf emerging, graceful [Common water-plantain](https://en.wikipedia.org/wiki/Alisma_plantago-aquatica), and a [white waterlily](https://en.wikipedia.org/wiki/Nymphaea_alba) flower reflecting in stillness.
 
 ### 2) 
 Form and texture.
@@ -45,33 +45,31 @@ Selective focus. Reflections and ripples.
 
 ![Image: Two black and white photos of the same scene arranged one above the other. The scene shows two of Melford Hall's turrets and flag pole reflected in the surface of the pond -  The upper photo is focussed on the reflection, the lower is focussed on the water surface, which has ripples and a pond skater.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
 
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="82" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+
 ### 5) 
-Text.
+What goes up, must come down.
 
-![Image: A view from inside the circle of Oak structures on which people can lean back and look up at the sky, which are surrounded by small trees and shrubs. There are several different cloud types in the sky.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-05.jpg)
-
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+![Image: A black and white photo showing a variety of different carved forms of baluster in a single banister. The image is reflected horizontally, and repeated once vertically.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-05.jpg)
 
 ### 6) 
-Text..
+Still we see clearly, we clearly still see.
 
-![Image: A painting of Anglesey Abbey by Richard Relhan looks very similar to how it still looks today - a priory converted into a Jacobean style house around 1600.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-06.jpg)
-
-Even the plants growing up the wall look similar ~200 years later:
-
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestThree }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+![Image: Two black and white photos, one above the other. The top image shows part of a glass/crystal chandelier. The cut edges of the pieces are clean and clear, but the light shows up some chipped edges. The lower image shows a close-up of the part of a drinking glass where the stem meets the bowl. The reflected and refracted light on the form of the glass creates a sense of vibrating motion, even though the glass is still.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-06.jpg)
 
 ### 7)  
-Text..
+Inside Out, outside in.
 
-![Image: One of the new varieties in the Rose Garden. Each of four flowers in the photo is at a different stage of opening. The colour of the flowers ranges from a soft dark baby pink, through a very pale pink, to a peachy yellow, and in form from a tight rose shape to a loose, many petaled ruffle.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-07.jpg)
+![Image: A background photo of a bright purple pyramidal orchid flower is overlain by two additional smaller photos in the top-left and bottom-right quarters. The top-left image shows a gatekeeper butterfly feeding from a yellow hawkweed flower. The butterfly has orange wings edged with brown, and has a distinctive black spot with two white "pupil" markings on each forewing, and the petals of the flowers is each tipped with five lobe shaped scalloped edge, resembling very tiny flattened marigold washing up gloves. The bottom right image shows a wooden chair in front of some period interior wall mouldings, the chair has been elaborately decorated with finely detailed marquetry in floral and foliage designs, the chair splat additionally features an urn design at the base and a small bird in the upper centre.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-08.jpg)
+
+A-top a luminous [pyramidal orchid](https://en.wikipedia.org/wiki/Anacamptis_pyramidalis), a beady-eyed [gatekeeper butterfly](https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/gatekeeper) feeds from washing-up glove flowers - [hawkweed](https://en.wikipedia.org/wiki/Hieracium) - and nature enshrined in marquetry casts a shadow from the window light.  
 
 ### 8) 
-Text.
+text... 
 
-![Image: Green leaves and seeds, perhaps from a Norway Maple, lie in the grass.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-08.jpg)
+![Image: A...]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-08.jpg)
 
-- [Helicopter seeds](https://www.woodlandtrust.org.uk/blog/2019/05/helicopter-seeds/)
+
 - [Maple, Norway](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/norway-maple/)
 
 ### 9) 
