@@ -5,7 +5,7 @@ date: 2024-07-14
 image: http://gewit-hring.com/images/posts/20240714-LongMelford-00.jpg
 lead_image: http://gewit-hring.com/images/posts/20240714-LongMelford-00.jpg
 alt_text: "A peacock butterfly on some lavender in the sunshine with its wings slightly ajar "
-excerpt: "Making a new friend on a walk around Anglesey Abbey. Looking up, around and on. A visual essay walk."
+excerpt: "On the Green at Long Melford are three great elms... Reflections, refractions, repetitions, and perspectives."
 author: Andy Corrigan
 audio:
 geojson: 20240714-LongMelford.json
@@ -14,42 +14,36 @@ manifestTwo: https://iiif.vam.ac.uk/collections/O18366/manifest.json
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
 tags: []
 ---
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00112.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="35" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:560px; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+
+> *“On the Green at Long Melford are three great elms, probably U. procera. About 5ft diam. Two are probably over 100ft high.”*
+> Oliver Rackham, Notebook 112, 1967 (CCCC14/6/2/1/112) 
+
 ### 1) 
-Text..
+As above, so below?
 
-![Image: A series of nine circular images arranged into three rows and three columns. Three images of individual flowers are repeated in the top and bottom rows, and the middle row images get progressively closer to a butterfly.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-01.jpg)
+![Image: Three square black and white photos of plants arranged in an "L" shape, repeated three more times, increasingly smaller, creating a sense of perspective.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-01.jpg)
 
-[Calendula](https://en.wikipedia.org/wiki/Calendula_officinalis), [Nigella (Love-in-a-Mist)](https://en.wikipedia.org/wiki/Nigella_damascena), [California poppy](https://en.wikipedia.org/wiki/Eschscholzia_californica), [Peacock butterfly](https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/peacock) flittering around [lavender](https://en.wikipedia.org/wiki/Lavandula). A place to sit. Summer in the Winter Garden. 
+A fresh young [Oak](https://en.wikipedia.org/wiki/Oak) leaf emerging, graceful [Common water-plantain](https://en.wikipedia.org/wiki/Alisma_plantago-aquatica), and [white waterlily](https://en.wikipedia.org/wiki/Nymphaea_alba) reflecting in stillness.
 
 ### 2) 
-Text..
+Form and texture.
 
-![Image: A life-sized lead statue of a female figure on a plinth in front of a tall hedge of Copper beech. She is holding a paint palette in her left hand and a raised paint brush in her right. She is Apollo's muse, Painting.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-02.jpg)
+![Image: Four square photos of flowers, arranged together in a square. The top left is a black and white photo of a cushion-like scabious, the bottom right is a black and white photo of a spiky globe thistle, and the other two are photos of yellow yarrow flower heads, one more open than the other.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-02.jpg)
+
+A soft pillowy [yellow/cream scabious](https://en.wikipedia.org/wiki/Scabiosa_ochroleuca) cushion, two yellow flower heads of [yarrow](https://en.wikipedia.org/wiki/Achillea_ageratum), and a spiky [globe thistle](https://en.wikipedia.org/wiki/Echinops_ritro).
 
 ### 3) 
-Text..
+Jewelled reflections. 
 
-![Image: A panoramic photo of an avenue of tall trees. A single small tree is indicated in a circle, the remainder of the image lightened]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-03.jpg)
+![Image: Four square photos of flowers, arranged together in a square. The four photos are repeated and overlain twice, each increasingly smaller towards the centre. The top left is a stained glass window detail of an elaborated decorated and jewelled dress. The top right photo is a detail of a chess/chequer board with black squares alternating with ones comprising of mosaic pieces of mother of pearl. The bottom left photo shows some long grass/reeds reflected in a water surface. The bottom right photo shows a bright blue and black striped dragonfly resting on a reed.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-03.jpg)
 
-[Pl@ntNet](https://plantnet.org/en/) App, a citizen science project, identifies the tree as [*Catalpa bignonioides*](https://en.wikipedia.org/wiki/Catalpa_bignonioides).
-
-On 31 May 1874, William Thiselton-Dyer wrote to Charles Darwin to share some observations of the movement of plants. Fellow botanist Thomas Meehan had recently observed movement of the stigma lobes in Catalpa flowers manually stimulated by a syringing technique.
-
-<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://gist.githubusercontent.com/IrisBox/a8cfe3b56f484fb6a572cb5d55766f3c/raw/b433d61d8f0069c365a1454dd399252cfd3baa0a/MS-DAR-00178.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-2692,-307,8669,6130&r=0" width="560" height="420" allowfullscreen frameborder="0"></iframe>
-
-- [*'Catalpa bignonioides'*](https://en.wikipedia.org/wiki/Catalpa_bignonioides)
-- [*'Letter no. 9478'*, Darwin Correspondence Project](https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9478.xml)
-- Thomas Meehan's observations of Bignoniaceae published in [*'Proceedings of the Academy of Natural Sciences of Philadelphia 25'* (1873): 277](https://www.biodiversitylibrary.org/item/18312#page/287/mode/1up)
+A stained glass window detail of an elaborated decorated and jewelled dress, a mother of pearl chess/chequers board, long grass/reeds reflected in a water surface, and a dragonfly resting on a reed.
 
 ### 4) 
-Text..
+Selective focus. Reflections and ripples. 
 
-Perhaps a victim of recent climate variations - a long dry summer and a long wet spring? 
-
-![Image: A struggling tree]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
-
-- Not unique: [Sooty Bark Disease affecting sycamore trees at Creswell Crags.](https://www.creswell-crags.org.uk/news-archive/tree-works-2024)
-- [*'Climate change and tree diseases'*, Carolyn Riddell, Forest Research by Forestry Commission.](https://cdn.forestresearch.gov.uk/2022/04/21_0026_Leaflet_CC_factsheet_Tree_diseases_Canker_wip07_Acc.pdf)
+![Image: Two black and white photos of the same scene arranged one above the other. The scene shows two of Melford Hall's turrets and flag pole reflected in the surface of the pond -  The upper photo is focussed on the reflection, the lower is focussed on the water surface, which has ripples and a pond skater.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
 
 ### 5) 
 Text.
