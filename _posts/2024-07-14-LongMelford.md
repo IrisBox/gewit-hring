@@ -45,7 +45,7 @@ Selective focus. Reflections and ripples.
 
 ![Image: Two black and white photos of the same scene arranged one above the other. The scene shows two of Melford Hall's turrets and flag pole reflected in the surface of the pond -  The upper photo is focussed on the reflection, the lower is focussed on the water surface, which has ripples and a pond skater.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="81" data-xywh="0" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div style="align:center" class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="81" data-xywh="0" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 ### 5) 
 What goes up, must come down/upstairs downstairs.
