@@ -17,7 +17,7 @@ tags: []
 <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00112.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="35" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 > *“On the Green at Long Melford are three great elms, probably U. procera. About 5ft diam. Two are probably over 100ft high.”*
-> Oliver Rackham, Notebook 112, 1967 (CCCC14/6/2/1/112) 
+> [Oliver Rackham, Notebook 112, 1967 (CCCC14/6/2/1/112)](https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00112/36) 
 
 ### 1) 
 As above, so below?
@@ -46,6 +46,8 @@ Selective focus. Reflections and ripples.
 ![Image: Two black and white photos of the same scene arranged one above the other. The scene shows two of Melford Hall's turrets and flag pole reflected in the surface of the pond -  The upper photo is focussed on the reflection, the lower is focussed on the water surface, which has ripples and a pond skater.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
 
 <iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json&c=0&m=0&cv=81&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-756,-1232,15115,10750&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe>
+> ["Granada, Spain. Comares patio (reflection in pool)", Garth Fowden](https://cudl.lib.cam.ac.uk/view/PH-FOWDEN-00016/82)
+
 ### 5) 
 What goes up, must come down/upstairs downstairs.
 
@@ -69,9 +71,9 @@ Floral forms.
 ![Image: Three square photos arranged in a backwards "L" shape. They are repeated three more times, each increasingly smaller towards the top left corner, creating a sense of perspective. The photo in the top right is black and white, and shows a circular carved stone moulding that consist of concentric layers of foliage that increasingly swirl towards the edge. The photo in the bottom right corner of the arrangement shows a close-up of a soft pink rose flower from an angle. The bottom left photo is a black and white close-up photo of the same rose flower, but directly on, emphasising its circular form and swirling petal arrangement and somewhat mirroring the form of the stone moulding.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-08.jpg)
 
 ### 9) 
-Text.
+A refracted exterior, an invitation in. 
 
-![Image: .]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-09.jpg)
+![Image: Two colour photos, with a similar colour palette, arranged one above the other. The top photo appears blurred, but it has been taken through an old window pane with an uneven surface and the image focus is on the surface of the glass, which creates an effect similar to a reflection in rippling water. The forms not in focus suggest a red brick building and some large rounded areas of foliage. The bottom photo is centred on a flight of steps that lead up and directly through an open doorway of an old red brick banqueting house that has many gables and small chimneys. The straight bright green grass path that leads up to the building is flanked on either side by neat rows of tall and tightly clipped darker green conifer trees.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-09.jpg)
 
 ### 10) 
 Text. 
