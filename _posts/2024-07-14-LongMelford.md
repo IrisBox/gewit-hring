@@ -9,7 +9,7 @@ excerpt: "On the Green at Long Melford are three great elms... Reflections, refr
 author: Andy Corrigan
 audio:
 geojson: 20240714-LongMelford.json
-manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-00731 
+manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016
 manifestTwo: https://iiif.vam.ac.uk/collections/O18366/manifest.json
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
 tags: []
@@ -45,7 +45,7 @@ Selective focus. Reflections and ripples.
 
 ![Image: Two black and white photos of the same scene arranged one above the other. The scene shows two of Melford Hall's turrets and flag pole reflected in the surface of the pond -  The upper photo is focussed on the reflection, the lower is focussed on the water surface, which has ripples and a pond skater.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
 
-<div align="center"><iframe src="https://uv-v3.netlify.app/uv/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json&c=0&m=0&s=0&cv=81&config=examples-config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-1873,0,9179,8287&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></div>
+<div align="center"><iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=81&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe></div>
 
 ### 5) 
 What goes up, must come down/upstairs downstairs.
@@ -65,12 +65,9 @@ Inside Out, outside in.
 Atop a luminous [pyramidal orchid](https://en.wikipedia.org/wiki/Anacamptis_pyramidalis), a beady-eyed [gatekeeper butterfly](https://www.wildlifetrusts.org/wildlife-explorer/invertebrates/butterflies/gatekeeper) feeds from washing-up glove flowers - [hawkweed](https://en.wikipedia.org/wiki/Hieracium) - and nature enshrined in marquetry casts a shadow on the wall from the window light.  
 
 ### 8) 
-text... 
+Floral forms.
 
-![Image: A...]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-08.jpg)
-
-
-- [Maple, Norway](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/norway-maple/)
+![Image: Three square photos arranged in a backwards "L" shape. They are repeated three more times, each increasingly smaller towards the top left corner, creating a sense of perspective. The photo in the top right is black and white, and shows a circular carved stone moulding that consist of concentric layers of foliage that increasingly swirl towards the edge. The photo in the bottom right corner of the arrangement shows a close-up of a soft pink rose flower from an angle. The bottom left photo is a black and white close-up photo of the same rose flower, but directly on, emphasising its circular form and swirling petal arrangement and somewhat mirroring the form of the stone moulding.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-08.jpg)
 
 ### 9) 
 Text.
