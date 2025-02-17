@@ -14,7 +14,7 @@ manifestTwo: https://iiif.vam.ac.uk/collections/O18366/manifest.json
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
 tags: []
 ---
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00112.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="35" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<p align="center"><div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00112.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="35" data-xywh="-1334,0,5176,2093" data-rotation="0" style="width:90%; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script></p>
 
 > *“On the Green at Long Melford are three great elms, probably U. procera. About 5ft diam. Two are probably over 100ft high.”*
 > [Oliver Rackham, Notebook 112, 1967 (CCCC14/6/2/1/112)](https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00112/36) 
@@ -83,6 +83,6 @@ Two sentinels.
 ### 11) 
 Text. 
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+<p align="center"><iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe></p>
 
 ![Image: Three colour photos arranged in a square, there are two smaller square photos, above which is a wider image. The upper image shows the northern end of Long Melford's village green, which has a pub and row of houses leading into the distance where there is a church tower and a grander brick building (an old hospital). The grassed area of land nearest the buildings is used as a car park. The bottom-left photo shows a closer view of the car park, with the hospital, church and houses in the background. In the foreground, the surface level of the ground is very uneven. The bottom right image shows a piece of worn/rotten wood, which is riddled with insect holes, lying on some grass.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-11.jpg)
