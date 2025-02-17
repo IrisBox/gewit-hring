@@ -45,7 +45,7 @@ Selective focus. Reflections and ripples.
 
 ![Image: Two black and white photos of the same scene arranged one above the other. The scene shows two of Melford Hall's turrets and flag pole reflected in the surface of the pond -  The upper photo is focussed on the reflection, the lower is focussed on the water surface, which has ripples and a pond skater.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-04.jpg)
 
-<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json&c=0&m=0&cv=81&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-756,-1232,15115,10750&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe>
+<p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/PH-FOWDEN-00016.json&c=0&m=0&cv=81&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-756,-1232,15115,10750&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
 > ["Granada, Spain. Comares patio (reflection in pool)", Garth Fowden](https://cudl.lib.cam.ac.uk/view/PH-FOWDEN-00016/82)
 
 ### 5) 
@@ -76,13 +76,13 @@ A refracted exterior, an invitation in.
 ![Image: Two colour photos, with a similar colour palette, arranged one above the other. The top photo appears blurred, but it has been taken through an old window pane with an uneven surface and the image focus is on the surface of the glass, which creates an effect similar to a reflection in rippling water. The forms not in focus suggest a red brick building and some large rounded areas of foliage. The bottom photo is centred on a flight of steps that lead up and directly through an open doorway of an old red brick banqueting house that has many gables and small chimneys. The straight bright green grass path that leads up to the building is flanked on either side by neat rows of tall and tightly clipped darker green conifer trees.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-09.jpg)
 
 ### 10) 
-Text. 
+Two sentinels. 
 
-![Image: .]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-10.jpg)
+![Image: Two black and white photos side by side, each of a different dead tree. The trees are still standing but have had most of their branches removed. In the background are the tops of some living trees on the horizon and the sky with wispy clouds. Each photo is reflected by a direct copy below it, creating an effect that makes the dead trees appear to be isolated and floating in the sky, adding to a sense of their suggestive anthropomorphic forms.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-10.jpg)
 
 ### 11) 
 Text. 
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
 
-![Image: .]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-11.jpg)
+![Image: Three colour photos arranged in a square, there are two smaller square photos, above which is a wider image. The upper image shows the northern end of Long Melford's village green, which has a pub and row of houses leading into the distance where there is a church tower and a grander brick building (an old hospital). The grassed area of land nearest the buildings is used as a car park. The bottom-left photo shows a closer view of the car park, with the hospital, church and houses in the background. In the foreground, the surface level of the ground is very uneven. The bottom right image shows a piece of worn/rotten wood, which is riddled with insect holes, lying on some grass.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-11.jpg)
