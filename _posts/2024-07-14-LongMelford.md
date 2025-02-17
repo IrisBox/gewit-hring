@@ -80,9 +80,21 @@ Two sentinels.
 
 ![Image: Two black and white photos side by side, each of a different dead tree. The trees are still standing but have had most of their branches removed. In the background are the tops of some living trees on the horizon and the sky with wispy clouds. Each photo is reflected by a direct copy below it, creating an effect that makes the dead trees appear to be isolated and floating in the sky, adding to a sense of their suggestive anthropomorphic forms.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-10.jpg)
 
+<p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00239.json&c=0&m=0&cv=17&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-1334,0,5176,2093&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
+
+> *“Few elms remain alive in the area of Melford Hall.”*
+> [Oliver Rackham, Notebook 239, 1977 (CCCC14/6/2/1/239)](https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00239/18) 
+
 ### 11) 
-Text. 
+In search of the elms.
+
+Before setting off, I'd searched the web for "elm trees Long Melford" and luckily one of the first returned results was a painting called [Long Melford Green on a Frosty Morning, Suffolk](https://collections.vam.ac.uk/item/O18366/long-melford-green-on-a-watercolour-badmin-stanley-roy/) by the artist [Stanley Roy Badmin](https://en.wikipedia.org/wiki/Stanley_Roy_Badmin) that is in the collections of the V&A.
 
 <p align="center"><iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestTwo }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe></p>
 
+I could try to find the site of the elm trees and see if any evidence of them remains?
+
 ![Image: Three colour photos arranged in a square, there are two smaller square photos, above which is a wider image. The upper image shows the northern end of Long Melford's village green, which has a pub and row of houses leading into the distance where there is a church tower and a grander brick building (an old hospital). The grassed area of land nearest the buildings is used as a car park. The bottom-left photo shows a closer view of the car park, with the hospital, church and houses in the background. In the foreground, the surface level of the ground is very uneven. The bottom right image shows a piece of worn/rotten wood, which is riddled with insect holes, lying on some grass.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-11.jpg)
+
+There is a suspiciously uneven area of ground in the otherwise smooth grassed village green which, on my initial reading of Badmin's painting, is tantalisingly in the area that the trees might have once stood so proudly. There is even a large lump of light coloured worn and rotten wood that is riddled with insect holes ... had I found a piece of one of the trees?
+
