@@ -40,6 +40,11 @@ Jewelled reflections.
 
 A stained glass window detail of an elaborated decorated and jewelled dress, a mother of pearl chess/chequers board, long grass/reeds reflected in a water surface, and a dragonfly resting on a reed.
 
+<p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-ADD-03958.json&c=0&m=0&cv=161&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=667,283,3607,2021&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
+
+> *“Motion may be lost by reflection.”*
+> [Isaac Newton, 'The Lawes of Motion', Early Papers (MS Add. 3958)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03958/162) 
+
 ### 4) 
 Selective focus. Reflections and ripples. 
 
@@ -74,6 +79,8 @@ Floral forms.
 A refracted exterior, an invitation in. 
 
 ![Image: Two colour photos, with a similar colour palette, arranged one above the other. The top photo appears blurred, but it has been taken through an old window pane with an uneven surface and the image focus is on the surface of the glass, which creates an effect similar to a reflection in rippling water. The forms not in focus suggest a red brick building and some large rounded areas of foliage. The bottom photo is centred on a flight of steps that lead up and directly through an open doorway of an old red brick banqueting house that has many gables and small chimneys. The straight bright green grass path that leads up to the building is flanked on either side by neat rows of tall and tightly clipped darker green conifer trees.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-09.jpg)
+
+<p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-01914.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-56,0,759,606&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
 
 ### 10) 
 Two sentinels. 
