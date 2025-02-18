@@ -65,7 +65,7 @@ Still we see clearly, we clearly still see.
 
 <p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-ADD-03970.json&c=0&m=0&cv=1238&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=7066,4263,3156,2157&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
 
-*"Besides the Refractions hitherto described, there is a refraction of another kind made in Island-glass, wch is a sort of Talc or pellucid stone found in Island, in the form of an parallelopiped easily clear as crystall splitting in glossy planes parallel to any of its six sides. [...] If a beam of light fall perpendicularly upon any surface of this glass, this beam passing through that shall part into two beams... "*  
+*"Besides the Refractions hitherto described, there is a refraction of another kind made in [Island-glass](https://en.wikipedia.org/wiki/Iceland_spar), wch is a sort of Talc or pellucid stone found in Island, in the form of an [parallelopiped](https://en.wikipedia.org/wiki/Parallelepiped) easily clear as crystall splitting in glossy planes parallel to any of its six sides. [...] If a beam of light fall perpendicularly upon any surface of this glass, this beam passing through that shall part into two beams... "*  
 [Isaac Newton, 'Hydrostatics, Optics, Sound and Heat' (MS Add. 3970)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03970/1239)   
 
 ### 7)  
