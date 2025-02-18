@@ -16,7 +16,7 @@ tags: []
 ---
 <p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00112.json&c=0&m=0&cv=35&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-1334,0,5176,2093&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
 
-> *“On the Green at Long Melford are three great elms, probably U. procera. About 5ft diam. Two are probably over 100ft high.”*
+> *“On the Green at Long Melford are three great elms, probably U. procera. About 5ft diam. Two are probably over 100ft high.”*  
 > [Oliver Rackham, Notebook 112, 1967 (CCCC14/6/2/1/112)](https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00112/36) 
 
 ### 1) 
@@ -42,7 +42,7 @@ A stained glass window detail of an elaborated decorated and jewelled dress, a m
 
 <p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-ADD-03958.json&c=0&m=0&cv=161&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=667,283,3607,2021&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
 
-> *“Motion may be lost by reflection.”*
+> *“Motion may be lost by reflection.”*  
 > [Isaac Newton, 'The Lawes of Motion', Early Papers (MS Add. 3958)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03958/162) 
 
 ### 4) 
@@ -62,6 +62,11 @@ What goes up, must come down/upstairs downstairs.
 Still we see clearly, we clearly still see.
 
 ![Image: Two black and white photos, one above the other. The top image shows part of a glass/crystal chandelier. The cut edges of the pieces are clean and clear, but the light shows up some chipped edges. The lower image shows a close-up of the part of a drinking glass where the stem meets the bowl. The reflected and refracted light on the form of the glass creates a sense of vibrating motion, even though the glass is still.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-06.jpg)
+
+<p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-ADD-03970.json&c=0&m=0&cv=1238&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=7066,4263,3156,2157&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
+
+*"Besides the Refractions hitherto described, there is a refraction of another kind made in Island-glass, wch is a sort of Talc or pellucid stone found in Island, in the form of an parallelopiped easily clear as crystall splitting in glossy planes parallel to any of its six sides. [...] If a beam of light fall perpendicularly upon any surface of this glass, this beam passing through that shall part into two beams... "*  
+[Isaac Newton, 'Hydrostatics, Optics, Sound and Heat' (MS Add. 3970)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03970/1239)   
 
 ### 7)  
 Inside Out, outside in.
@@ -89,7 +94,7 @@ Two sentinels.
 
 <p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-CCCC-00014-00006-00002-00001-00239.json&c=0&m=0&cv=17&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-1334,0,5176,2093&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
 
-> *“Few elms remain alive in the area of Melford Hall.”*
+> *“Few elms remain alive in the area of Melford Hall.”*  
 > [Oliver Rackham, Notebook 239, 1977 (CCCC14/6/2/1/239)](https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00239/18) 
 
 ### 11) 
