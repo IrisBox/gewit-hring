@@ -65,8 +65,8 @@ Still we see clearly, we clearly still see.
 
 <p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-ADD-03970.json&c=0&m=0&cv=1238&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=5176,279,4762,2588&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>
 
-*"Besides the Refractions hitherto described, there is a refraction of another kind made in [Island-glass](https://en.wikipedia.org/wiki/Iceland_spar), wch is a sort of Talc or pellucid stone found in Island, in the form of an [parallelopiped](https://en.wikipedia.org/wiki/Parallelepiped) easily clear as crystall splitting in glossy planes parallel to any of its six sides. [...] If a beam of light fall perpendicularly upon any surface of this glass, this beam passing through that shall part into two beams... "*  
-[Isaac Newton, 'Hydrostatics, Optics, Sound and Heat' (MS Add. 3970)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03970/1239)   
+> *"Besides the Refractions hitherto described, there is a refraction of another kind made in [Island-glass](https://en.wikipedia.org/wiki/Iceland_spar), wch is a sort of Talc or pellucid stone found in Island, in the form of an [parallelopiped](https://en.wikipedia.org/wiki/Parallelepiped) easily clear as crystall splitting in glossy planes parallel to any of its six sides. [...] If a beam of light fall perpendicularly upon any surface of this glass, this beam passing through that shall part into two beams... "*  
+> [Isaac Newton, 'Hydrostatics, Optics, Sound and Heat' (MS Add. 3970)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03970/1239)   
 
 ### 7)  
 Inside out, outside in.
@@ -81,7 +81,7 @@ Floral forms.
 ![Image: Three square photos arranged in a backwards "L" shape. They are repeated three more times, each increasingly smaller towards the top left corner, creating a sense of perspective. The photo in the top right is black and white, and shows a circular carved stone moulding that consist of concentric layers of foliage that increasingly swirl towards the edge. The photo in the bottom right corner of the arrangement shows a close-up of a soft pink rose flower from an angle. The bottom left photo is a black and white close-up photo of the same rose flower, but directly on, emphasising its circular form and swirling petal arrangement and somewhat mirroring the form of the stone moulding.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-08.jpg)
 
 <p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/MS-RAS-00258.json&c=0&m=0&cv=11&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=1747,1897,1000,556&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>  
-[Gulistan (Rose Garden) of Sa‘di (RAS Persian 258)](https://cudl.lib.cam.ac.uk/view/MS-RAS-00258/12)  
+> [Gulistan (Rose Garden) of Sa‘di (RAS Persian 258)](https://cudl.lib.cam.ac.uk/view/MS-RAS-00258/12)  
 
 ### 9) 
 A refracted exterior, an invitation in. 
@@ -89,7 +89,7 @@ A refracted exterior, an invitation in.
 ![Image: Two colour photos, with a similar colour palette, arranged one above the other. The top photo appears blurred, but it has been taken through an old window pane with an uneven surface and the image focus is on the surface of the glass, which creates an effect similar to a reflection in rippling water. The forms not in focus suggest a red brick building and some large rounded areas of foliage. The bottom photo is centred on a flight of steps that lead up and directly through an open doorway of an old red brick banqueting house that has many gables and small chimneys. The straight bright green grass path that leads up to the building is flanked on either side by neat rows of tall and tightly clipped darker green conifer trees.]({{site.url}}/images/posts/20240714-LongMelford/20240714-LongMelford-09.jpg)
 
 <p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-01914.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-56,0,759,606&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>  
-[Lawrence Bragg's interpretation of the X-ray diffraction pattern of cubical zinc blende (1912) (P1914 (a), (b))](https://cudl.lib.cam.ac.uk/view/PH-CAVENDISH-P-01914/2)  
+> [Lawrence Bragg's interpretation of the X-ray diffraction pattern of cubical zinc blende (1912) (P1914 (a), (b))](https://cudl.lib.cam.ac.uk/view/PH-CAVENDISH-P-01914/2)  
 
 ### 10) 
 Two sentinels. 
