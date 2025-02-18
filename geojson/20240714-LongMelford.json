@@ -47931,21 +47931,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "1) Still to come...",
-        "link": "https://gewit-hring.com/journal/longmelford/#11"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.72969733759993,
-          52.08479674170181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "2) Also still to come...",
+        "name": "11) In search of the elms.",
         "link": "https://gewit-hring.com/journal/longmelford/#11"
       },
       "geometry": {
@@ -47953,6 +47939,20 @@
         "coordinates": [
           0.7213644084084194,
           52.08637284839827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12) Addendum: The place I didn’t go.",
+        "link": "https://gewit-hring.com/journal/longmelford/#12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7212563513845964,
+          52.08383817766514
         ]
       }
     }
