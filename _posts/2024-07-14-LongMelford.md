@@ -125,3 +125,5 @@ Photo ref: L101004](https://www.francisfrith.com/long-melford/long-melford-the-g
 A digital literacy lesson in not solely relying on your first impressions of the first thing you find... 
 
 The Francis Frith Collection website encourages users to share memories that images might spark, and something else along these lines came up when I searched the web for "Long Melford elms" - [a recent facebook post](https://www.facebook.com/groups/1276511739194056/posts/2874398402738707/) in a public group called the [Long Melford Historical & Archaeological Society](https://www.lmhas.co.uk/), which has a number of older images of the village, including several of the elm trees. The group are clearly quite engaged, because many people have been commenting and sharing their memories of the elm trees, which adds a lovely level of personal depth to their existence. It is perhaps a shame that social media posts such as this are so ephemeral.   
+
+**The writing of this post has been funded by the [AHRC-RLUK Professional Practice Fellowship](https://www.rluk.ac.uk/ppfs-fellows-2/) Scheme for research and academic libraries.**

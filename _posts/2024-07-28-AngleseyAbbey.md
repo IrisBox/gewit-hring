@@ -146,5 +146,7 @@ A bloom in the wild ... [flower bed].
 
 ![Image: A series of nine circular images arranged into three rows and three columns. The central image shows a singular vivid pink poppy flower, the petals edged with white. The eight surrounding images show a multitude of summer wildflowers in numerous colours.]({{site.url}}/images/posts/20240728-AngleseyAbbey/20240728-AngleseyAbbey-17-WildOne.jpg)
 
+**The writing of this post has been funded by the [AHRC-RLUK Professional Practice Fellowship](https://www.rluk.ac.uk/ppfs-fellows-2/) Scheme for research and academic libraries.**
+
 *** 
 [^1]: Solnit, R. (2022), *Wanderlust*. London: Granta Books. 

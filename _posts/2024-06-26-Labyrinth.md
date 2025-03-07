@@ -60,7 +60,7 @@ Did I achieve what I set out to? I’m still not entirely sure what it was I set
 
 The ‘Labyrinth’, is a concept developed by [Brian Draper](https://www.briandraper.org/) and delivered in collaboration with [Artesian](https://www.artesiangroup.co.uk/labyrinth).
 
-**This post has been funded by the AHRC-RLUK Professional Practice Fellowship Scheme for research and academic libraries.**
+**This post has been funded by the [AHRC-RLUK Professional Practice Fellowship](https://www.rluk.ac.uk/ppfs-fellows-2/) Scheme for research and academic libraries.**  
 
 Knotwork borders in the *Book of Deer (MS Ii.6.32)* perhaps share an affinity with labyrinth concepts (Pennick, 1990, p.46).[^1]
 
