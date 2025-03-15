@@ -2,9 +2,9 @@
 title: "Case Study: University of Edinburgh"
 layout: post
 date: 2024-11-26
-image: http://gewit-hring.com/images/posts/20240529_004.jpg
-lead_image: http://gewit-hring.com/images/posts/20240529_004.jpg
-alt_text: "Arriving at the University of Leeds. A very modern angular car park and a self portrait reflection in a mirrored surface"
+image: http://gewit-hring.com/images/posts/20241126-EDC-Edinburgh.jpg
+lead_image: http://gewit-hring.com/images/posts/20241126-EDC-Edinburgh.jpg
+alt_text: "Sunrise through the Forth Bridge in transit over the firth."
 excerpt: "A report on my research visit to the University of Edinburgh."
 author: Andy Corrigan
 audio:
