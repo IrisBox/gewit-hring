@@ -15,10 +15,12 @@ tags: []
 The *Regenesis Triptych* is a response to a collaborative project called [Awakening by TDCTunes](https://www.tdctunes.com/awakening).
 
 > *"An android awakens in the wreckage of a crashed spacecraft on a desolate, alien planet. Severely damaged and with only a fraction of its former capabilities, it struggles to regain functionality. Initially disoriented it sets out, driven by an innate curiosity and the desire to understand its environment—and itself."*
-> Awakening - A multidisciplinary art project exploring a stranded android's struggle to regain functionality and self-awareness.
+
+Awakening - A multidisciplinary art project exploring a stranded android's struggle to regain functionality and self-awareness.
 
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
 
+### About the *Regenesis Triptych*   
 We find ourselves at an exciting confluence of human experience and technology. As places which care for our past and our future, Libraries and Archives are at its coalface. 
 
 Through exploring the positionality of the android, which bridges humanity and machine, my response blends analogue and digital methods to contemplate and visualise some of our most human processes – curiosity, knowledge, and understanding. 
@@ -33,8 +35,8 @@ As the components begin to coalesce around a physical form in the second stage, 
 
 Harmony is achieved in the final stage as the android reaches a pinnacle. Components have become functional objects, concepts of “power” and “order” have developed, and disorientation is replaced by understanding. But thoughts also turn to the future and the prospect of decay, flaking and cracking. As this project evolves, links back to the archival manuscripts will be incorporated and you too can develop an understanding of how these glimpses into the past relate to visions of the future. 
 
-List of images used from [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/):
-- [Kalāpustaka (MS Add.864): A mandala representation of the rāsalīlā, the joyful dance and amorous sport among Kṛṣṇa and the Gopīs.](https://cudl.lib.cam.ac.uk/view/MS-ADD-00864/140), Cambridge University Library (CC BY-NC 4.0)
+### List of images used from [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/):
+- [Kalāpustaka (MS Add.864): A mandala representation of the rāsalīlā, the joyful dance and amorous sport among Kṛṣṇa and the Gopīs.](https://cudl.lib.cam.ac.uk/view/MS-ADD-00864/140) Cambridge University Library (CC BY-NC 4.0)
 - [Isaac Newton's Laboratory Notebook (MS Add. 3975)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03975/21) Cambridge University Library (CC BY-NC 4.0)
 - [Isaac Newton's Trinity College Notebook (MS Add. 3996)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03996/187) Cambridge University Library (CC BY-NC 4.0)
 - [Isaac Newton's Trinity College Notebook (MS Add. 3996)](https://cudl.lib.cam.ac.uk/view/MS-ADD-03996/247) Cambridge University Library (CC BY-NC 4.0)
