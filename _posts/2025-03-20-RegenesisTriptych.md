@@ -18,7 +18,7 @@ The *Regenesis Triptych* is a response to a collaborative project called [Awaken
 
 Awakening - A multidisciplinary art project exploring a stranded android's struggle to regain functionality and self-awareness.
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>  
 
 ### About the *Regenesis Triptych*   
 We find ourselves at an exciting confluence of human experience and technology. As places which care for our past and our future, Libraries and Archives are at its coalface. 
@@ -29,7 +29,7 @@ This is what excites me about this project. ‘The Regenesis Triptych’ situate
 
 The transportability of the triptych form lends itself to digital media. Presented here are three panels in one image, which should be “read” starting with the left-hand panel, followed by the right, and the story ends in the central section. 
 
-<iframe src="https://exhibit.cdh.cam.ac.uk/exhibits/AQCJtodT3G8izxvZJElm?embedded=true" width="90%" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe> 
+<iframe src="https://exhibit.cdh.cam.ac.uk/exhibits/AQCJtodT3G8izxvZJElm?embedded=true" width="90%" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe>  
 
 In stage one of the story, the android emerges confused and disorientated. Piecing together various components, it not only finds the physical parts it needs, but amongst them is a hard drive containing what looks like an archive of historic manuscripts. The images presented in this section are derived from physical objects using different photographic processes – digital photography and cyanotype prints. The archival manuscript images are sourced from [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/), and here have been corrupted using a jpg glitching tool. 
 
