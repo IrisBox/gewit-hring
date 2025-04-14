@@ -29,6 +29,8 @@ This is what excites me about this project. ‘The Regenesis Triptych’ situate
 
 The transportability of the triptych form lends itself to digital media. Presented here are three panels in one image, which should be “read” starting with the left-hand panel, followed by the right, and the story ends in the central section. 
 
+<iframe src="https://exhibit.cdh.cam.ac.uk/exhibits/AQCJtodT3G8izxvZJElm?embedded=true" width="90%" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe> 
+
 In stage one of the story, the android emerges confused and disorientated. Piecing together various components, it not only finds the physical parts it needs, but amongst them is a hard drive containing what looks like an archive of historic manuscripts. The images presented in this section are derived from physical objects using different photographic processes – digital photography and cyanotype prints. The archival manuscript images are sourced from [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/), and here have been corrupted using a jpg glitching tool. 
 
 As the components begin to coalesce around a physical form in the second stage, the android begins to make sense of this ocean of information, giving form to knowledge as well. As physical objects begin to take form, both human and machine develop understanding through a series of processes – construction and sense making. This section incorporates imagery generated using AI computer-vision methods to sort this corpus of images by similarity and to detect anthropomorphic forms. 
