@@ -8,7 +8,7 @@ alt_text: "A map showing the results of a dérive in Glasgow."
 excerpt: "A collaborative dérive for the hybrid age."
 author: Andy Corrigan
 audio:
-geojson: Derive-Routes-Glasgow.json
+geojson: Derive-AllData-Glasgow.json
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-00731 
 manifestTwo: https://cudl.lib.cam.ac.uk//iiif/PH-NRI-00002-00010-00001-00001-00008-00004
 manifestThree: https://cudl.lib.cam.ac.uk//iiif/MS-VIEWS-RELHAN-00042
