@@ -16,7 +16,7 @@ tags: []
 ---
 ***What Can Glasgow teach us? A collaborative dérive for the hybrid age.***
 
-<iframe src="https://irisbox.github.io/UKIEDH-Derive/#/12.79/-4.2825/55.8643/mode=points+facet=type" title="UKIEDH-Derive" width="100%" height="100%"></iframe>
+<iframe src="https://irisbox.github.io/UKIEDH-Derive/#/12.79/-4.2825/55.8643/mode=points+facet=type" title="UKIEDH-Derive" width="100%" height="500"></iframe>
 
 > (cite example)[^1]  
 
