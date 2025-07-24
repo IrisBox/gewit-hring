@@ -2,13 +2,13 @@
 title: "20250617-UKIEDH-Glasgow"
 layout: post
 date: 2025-06-17
-image: http://gewit-hring.com/images/posts/2025-06-17-UKIEDH-Glasgow.jpg
-lead_image: http://gewit-hring.com/images/posts/2025-06-17-UKIEDH-Glasgow.jpg
+image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
+lead_image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
 alt_text: "A map showing the results of a dérive in Glasgow."
 excerpt: "*Collaboration beyond Boundaries*. Language, walls and screens are boundaries, our experience of them is a way to cross their thresholds. A report on a collaborative dérive for the hybrid age."
 author: Andy Corrigan
 audio:
-geojson: Derive-AllData-Glasgow.json
+geojson: Derive-Routes-Glasgow.json
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-Y-00303-E.json
 manifestTwo: https://manifests.collections.yale.edu/ycba/orb/167967
 manifestThree: https://iiif.bodleian.ox.ac.uk/iiif/manifest/85b3a5d5-2f70-449e-aa92-15fdad275032.json
