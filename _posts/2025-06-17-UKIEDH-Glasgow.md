@@ -5,7 +5,7 @@ date: 2025-06-17
 image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
 lead_image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
 alt_text: "A map showing the results of a dérive in Glasgow."
-excerpt: "*Collaboration beyond Boundaries*. Language, walls and screens are boundaries, our experience of them is a way to cross their thresholds. A report on a collaborative dérive for the hybrid age."
+excerpt: "Collaboration beyond Boundaries: Language, walls and screens are boundaries, our experience of them is a way to cross their thresholds. A report on a collaborative dérive for the hybrid age."
 author: Andy Corrigan
 audio:
 geojson: Derive-Routes-Glasgow.json
@@ -17,15 +17,17 @@ tags: []
 > *“The panorama-city is a "theoretical" (that is, visual) simulacrum, in short a picture, whose condition of possibility is an oblivion and a misunderstanding of practices."*   
 > (de Certeau, 1984 , p. 93)[^1]  
 
-***What Can Glasgow teach us?***   
-***A collaborative dérive for the hybrid age.***  
-
+## ***What Can Glasgow teach us?***   
+### ***A collaborative dérive for the hybrid age.***  
+  
+**This activity was gratefully supported and funded by [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).**  
+   
 ### Introduction
 Language, walls and screens are boundaries, our experience of them is a way to cross their thresholds. This hybrid dérive, undertaken on 17/06/2025 as part of the [UK-Ireland Digital Humanities Association's 2025 Annual Event](https://digitalhumanities-uk-ie.org/2025-annual-event/), was proposed as a way to question the theme of “Collaboration Beyond Boundaries”, seeking evidence of what we could learn or glean from the city of Glasgow. Its intention was to enable an embodied way to creatively explore, experience, discuss and answer this question, calling on participants to collaborate by applying their own skills, experience and background.
  
 A dérive, defined by Guy Debord and the Situationist International in the 1950s, is a psychogeographical method of journeying through a landscape, and is characterised by transience, the varied ambience of the situation, and playfully constructive behaviour.[^2] Glasgow is no stranger to this concept – in the 1990s a group of artists and activists, the [‘Workshop for Non-Linear Architecture’](https://en.wikipedia.org/wiki/Workshop_for_Non-Linear_Architecture), applied this theory as they undertook a 'Psychogeographical Survey of Glasgow'.
 
-The general dominance of images in contemporary culture, in particular through the digitisation of cultural artefacts, offers opportunities to re-contextualise and re-connect to physical reality, disrupt traditional concepts of space and time,[^3] and create the conditions that afford a fresh perspective of the dérive.   
+The general dominance of images in contemporary culture, in particular through the digitisation of cultural artefacts, offers opportunities to re-contextualise and re-connect to physical reality, disrupt traditional concepts of space and time.[^3] Does this digital age create the conditions that afford a fresh perspective of the dérive? - The hybrid dérive!  
 
 After a brief introduction, participants were split into teams, each tasked with exploring a different location and gathering as much evidence of their experiences and findings as they can before returning to reconvene at the venue for the conference Plenary Session. Each team was assigned an iPad to use and a nearby area, provided with access to a pool of digital resources that relate to the city of Glasgow, as well as some suggested themes and challenges as prompts, and given access to a shared space to gather their evidence.  
 
@@ -38,11 +40,12 @@ The rest was down to them!
 - A fourth team was planned to explore the Glasgow Subway. **[NB]** This ended up impractical in the time available, but I have collected additional points of data and images from over the course of the conference which attest to this mode of transport that is so iconic to Glasgow.  
 
 ### Results
-The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map above. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map below using the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/). **[NB]** I'm still trying to figure out how to display the GPS route data in the Peripleo tool.   
+The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map above. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map below using the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/).   
+**[NB]** I'm still trying to figure out how to display the GPS route data in the Peripleo tool.   
 
 <iframe src="https://irisbox.github.io/UKIEDH-Derive/#/12.79/-4.2825/55.8643/mode=points+facet=type" title="UKIEDH-Derive" width="100%" height="500"></iframe>
 
-### The Challenges
+### The Challenges  
 Each team was provided with a selection of pre-existing digital resources, as well as a variety of challenges as prompts. These challenges were conceived to encourage closer reading of their surroundings, as well as to encourage them to use and situate the digital resources as a method of augmenting that experience. The number of challenges far exceeds what could be feasible in a timeframe of 90 minutes to intentionally heighten the role of chance in which the teams were drawn to undertaking on their specific dérive. The challenges are all listed below to assist in interpreting the resulting evidence, but I also hope other's might find inspiration and give them a go!    
 
 **General (All Teams)**
