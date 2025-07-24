@@ -14,13 +14,11 @@ manifestTwo: https://manifests.collections.yale.edu/ycba/orb/167967
 manifestThree: https://iiif.bodleian.ox.ac.uk/iiif/manifest/85b3a5d5-2f70-449e-aa92-15fdad275032.json
 tags: []
 ---
+## ***What Can Glasgow teach us?***   
+## ***A collaborative dérive for the hybrid age.***  
+   
 > *“The panorama-city is a "theoretical" (that is, visual) simulacrum, in short a picture, whose condition of possibility is an oblivion and a misunderstanding of practices."*   
 > (de Certeau, 1984 , p. 93)[^1]  
-
-## ***What Can Glasgow teach us?***   
-### ***A collaborative dérive for the hybrid age.***  
-  
-**This activity was gratefully supported and funded by [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).**  
    
 ### Introduction
 Language, walls and screens are boundaries, our experience of them is a way to cross their thresholds. This hybrid dérive, undertaken on 17/06/2025 as part of the [UK-Ireland Digital Humanities Association's 2025 Annual Event](https://digitalhumanities-uk-ie.org/2025-annual-event/), was proposed as a way to question the theme of “Collaboration Beyond Boundaries”, seeking evidence of what we could learn or glean from the city of Glasgow. Its intention was to enable an embodied way to creatively explore, experience, discuss and answer this question, calling on participants to collaborate by applying their own skills, experience and background.
@@ -32,7 +30,9 @@ The general dominance of images in contemporary culture, in particular through t
 After a brief introduction, participants were split into teams, each tasked with exploring a different location and gathering as much evidence of their experiences and findings as they can before returning to reconvene at the venue for the conference Plenary Session. Each team was assigned an iPad to use and a nearby area, provided with access to a pool of digital resources that relate to the city of Glasgow, as well as some suggested themes and challenges as prompts, and given access to a shared space to gather their evidence.  
 
 The rest was down to them!  
-
+  
+**This activity was gratefully supported and funded by [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).**  
+  
 ### Locations
 - Team 1 set out east to Kelvingrove Park
 - Team 2 made their way south to Riverside and Govan Footbridge
