@@ -8,7 +8,6 @@ alt_text: "A map showing the results of a dérive in Glasgow."
 excerpt: "Collaboration beyond Boundaries: Language, walls and screens are boundaries, our experience of them is a way to cross their thresholds. A report on a collaborative dérive for the hybrid age."
 author: Andy Corrigan
 audio:
-geojson: Derive-Routes-Glasgow.json
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-Y-00303-E.json
 manifestTwo: https://manifests.collections.yale.edu/ycba/orb/167967
 manifestThree: https://iiif.bodleian.ox.ac.uk/iiif/manifest/85b3a5d5-2f70-449e-aa92-15fdad275032.json
@@ -40,8 +39,7 @@ The rest was down to them!
 - A fourth team was planned to explore the Glasgow Subway. **[NB]** This ended up impractical in the time available, but I have collected additional points of data and images from over the course of the conference which attest to this mode of transport that is so iconic to Glasgow.  
 
 ### Results
-The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map above. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map below using the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/).   
-**[NB]** I'm still trying to figure out how to display the GPS route data in the Peripleo tool.   
+The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map below. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map below, which uses the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/).     
 
 <iframe src="https://irisbox.github.io/UKIEDH-Derive/#/12.79/-4.2825/55.8643/mode=points+facet=type" title="UKIEDH-Derive" width="100%" height="500"></iframe>
 
