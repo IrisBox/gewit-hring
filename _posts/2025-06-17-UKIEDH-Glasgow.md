@@ -18,7 +18,9 @@ tags: []
    
 > *“The panorama-city is a "theoretical" (that is, visual) simulacrum, in short a picture, whose condition of possibility is an oblivion and a misunderstanding of practices."*   
 > (de Certeau, 1984 , p. 93)[^1]  
-   
+  
+<iframe src="https://irisbox.github.io/UKIEDH-Derive/#/12.52/-4.2995/55.8681/mode=points+facet=type" width="100%" height="500"></iframe>  
+     
 ### Introduction
 Language, walls and screens are boundaries, our experience of them is a way to cross their thresholds. This hybrid dérive, undertaken on 17/06/2025 as part of the [UK-Ireland Digital Humanities Association's 2025 Annual Event](https://digitalhumanities-uk-ie.org/2025-annual-event/), was proposed as a way to question the theme of “Collaboration Beyond Boundaries”, seeking evidence of what we could learn or glean from the city of Glasgow. Its intention was to enable an embodied way to creatively explore, experience, discuss and answer this question, calling on participants to collaborate by applying their own skills, experience and background.
  
@@ -39,9 +41,7 @@ The rest was down to them!
 - A fourth team was planned to explore the Glasgow Subway. **[NB]** This ended up impractical in the time available, but I have collected additional points of data and images from over the course of the conference which attest to this mode of transport that is so iconic to Glasgow.  
 
 ### Results
-The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map below. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map below, which uses the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/).     
-
-<iframe src="https://irisbox.github.io/UKIEDH-Derive/#/12.79/-4.2825/55.8643/mode=points+facet=type" title="UKIEDH-Derive" width="100%" height="500"></iframe>
+The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map above. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map above (hosted at [irisbox.github.io/UKIEDH-Derive](https://irisbox.github.io/UKIEDH-Derive/)), which uses the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/).     
 
 ### The Challenges  
 Each team was provided with a selection of pre-existing digital resources, as well as a variety of challenges as prompts. These challenges were conceived to encourage closer reading of their surroundings, as well as to encourage them to use and situate the digital resources as a method of augmenting that experience. The number of challenges far exceeds what could be feasible in a timeframe of 90 minutes to intentionally heighten the role of chance in which the teams were drawn to undertaking on their specific dérive. The challenges are all listed below to assist in interpreting the resulting evidence, but I also hope other's might find inspiration and give them a go!    
