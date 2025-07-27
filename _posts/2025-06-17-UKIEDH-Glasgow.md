@@ -53,7 +53,7 @@ Team 2:
 <iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFive }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>  
   
 Team 3:  
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFive }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>  
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestSix }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>  
   
 ### The Challenges  
 Each team was provided with a selection of pre-existing digital resources, as well as a variety of challenges as prompts. These challenges were conceived to encourage closer reading of their surroundings, as well as to encourage them to use and situate the digital resources as a method of augmenting that experience. The number of challenges far exceeds what could be feasible in a timeframe of 90 minutes to intentionally heighten the role of chance in which the teams were drawn to undertaking on their specific dérive. The challenges are all listed below to assist in interpreting the resulting evidence, but I also hope other's might find inspiration and give them a go!    
