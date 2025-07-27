@@ -13,6 +13,7 @@ manifestTwo: https://manifests.collections.yale.edu/ycba/orb/167967
 manifestThree: https://iiif.bodleian.ox.ac.uk/iiif/manifest/85b3a5d5-2f70-449e-aa92-15fdad275032.json
 manifestFour: https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json
 manifestFive: https://irisbox.github.io/Derive-Glasgow/manifests/Team-2-Riverside.json
+manifestSix: https://irisbox.github.io/Derive-Glasgow/manifests/Team-3-Kibble-Palace.json  
 tags: []
 ---
 ## ***What Can Glasgow teach us?***   
@@ -45,12 +46,15 @@ The rest was down to them!
 ### Results
 The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map above. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map above (hosted at [irisbox.github.io/UKIEDH-Derive](https://irisbox.github.io/UKIEDH-Derive/)), which uses the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/).     
 
-Team 1:
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFour }}&c=0&m=0&cv=266&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>
-
-Team 2:
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFive }}&c=0&m=0&cv=266&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>
-
+Team 1:  
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFour }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>  
+  
+Team 2:  
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFive }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>  
+  
+Team 3:  
+<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestFive }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>  
+  
 ### The Challenges  
 Each team was provided with a selection of pre-existing digital resources, as well as a variety of challenges as prompts. These challenges were conceived to encourage closer reading of their surroundings, as well as to encourage them to use and situate the digital resources as a method of augmenting that experience. The number of challenges far exceeds what could be feasible in a timeframe of 90 minutes to intentionally heighten the role of chance in which the teams were drawn to undertaking on their specific dérive. The challenges are all listed below to assist in interpreting the resulting evidence, but I also hope other's might find inspiration and give them a go!    
 
