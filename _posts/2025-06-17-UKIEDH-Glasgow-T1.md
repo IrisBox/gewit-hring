@@ -19,7 +19,7 @@ tags: []
 
 Observations:  
   
-<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=0,-3000,4000,3000&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe>  
+<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska" width="90%" height="420" allowfullscreen frameborder="0"></iframe>  
 
   
 **This activity was gratefully supported and funded by [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).**  
