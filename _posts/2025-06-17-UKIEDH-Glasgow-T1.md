@@ -14,8 +14,8 @@ tags: []
 ---
 ## ***What Can Glasgow teach us?***   
 ## ***A collaborative dérive for the hybrid age.***  
-   
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=266&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="80%" height="400" allowfullscreen frameborder="0"></iframe>  
+
+<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=0&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe>
 
 ### Team 1: Kelvingrove Park
 
