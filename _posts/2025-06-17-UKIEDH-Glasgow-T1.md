@@ -20,7 +20,7 @@ Team 1 set out east from the conference venue to explore Kevingrove Park.
 ### Observations  
   
 Photographs:  
-<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska" width="90%" height="420" allowfullscreen frameborder="0"></iframe>  
+<p align="center"><iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska" width="90%" height="420" allowfullscreen frameborder="0"></iframe></p>    
   
 Video Footage:  
 1)   
