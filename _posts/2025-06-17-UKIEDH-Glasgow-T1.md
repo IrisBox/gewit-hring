@@ -13,13 +13,14 @@ tags: []
 ## ***What Can Glasgow teach us?***   
 ## ***A collaborative dérive for the hybrid age.***  
 
-<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=0,-767,4031,4557&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
-
 ### Team 1: Kelvingrove Park
 
 - Team 1 set out east to 
 
-Observations:
+Observations:  
+  
+<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=0,-3000,4000,3000&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe>  
+
   
 **This activity was gratefully supported and funded by [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).**  
   
