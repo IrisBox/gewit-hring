@@ -7,15 +7,13 @@ lead_image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
 alt_text: "A map showing the results of a dérive in Glasgow."
 excerpt: "Team 1 Evidence."
 author: Andy Corrigan
-geojson: Derive-Glasgow-Light_blue.geojson
-manifestOne: https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json
-  
+geojson: Derive-Glasgow-Light_blue.geojson  
 tags: []
 ---
 ## ***What Can Glasgow teach us?***   
 ## ***A collaborative dérive for the hybrid age.***  
 
-<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=0&r=0" width="90%" height="420" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://irisbox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json&c=0&m=0&cv=1&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=0,-767,4031,4557&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>
 
 ### Team 1: Kelvingrove Park
 
