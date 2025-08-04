@@ -34,6 +34,8 @@ The general dominance of images in contemporary culture, in particular through t
 After a brief introduction, participants were split into teams, each tasked with exploring a different location and gathering as much evidence of their experiences and findings as they can before returning to reconvene at the venue for the conference Plenary Session. Each team was assigned an iPad to use and a nearby area, provided with access to a pool of digital resources that relate to the city of Glasgow, as well as some suggested themes and challenges as prompts, and given access to a shared space to gather their evidence.  
 
 The rest was down to them!  
+
+I'd like to say a huge thank you to everyone that participated and assisted with delivering the event!
   
 **This activity was gratefully supported and funded by [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).**  
   
@@ -42,17 +44,17 @@ The rest was down to them!
 - Team 2 made their way south to Riverside and Govan Footbridge
 - Team 3 went north to Kibble Palace in Glasgow Botanic Garden 
 - A fourth team was planned to explore the Glasgow Subway. **[NB]** This ended up impractical in the time available, but I have collected additional points of data and images from over the course of the conference which attest to this mode of transport that is so iconic to Glasgow.  
-
+  
 ### Results
 The dérive took place over 90 minutes. Each iPad used [Strava](https://www.strava.com/) to track the routes the teams took and record this as GPS data. These can be seen in the interactive map above. The digital resources, in a wide variety of different media and collections, and the evidence collected by the participants, which mostly consists of photographs and a couple of videos, are all mapped on, and can be explored using, the interactive map above (hosted at [irisbox.github.io/UKIEDH-Derive](https://irisbox.github.io/UKIEDH-Derive/)), which uses the [Peripleo](https://britishlibrary.github.io/locating-a-national-collection/Peripleo.html) tool. The photos are [IIIF](https://iiif.io/) *Level 0* compliant, hosted using the [IIIF Workbench](https://github.com/glenrobson/github_iiif), and can also be browsed where they are hosted on GitHub at [https://irisbox.github.io/Derive-Glasgow/](https://irisbox.github.io/Derive-Glasgow/).     
   
-[Team 1: Observations](https://gewit-hring.com/journal/ukiedh-glasgow-t1/)   
+[Team 1: Kelvingrove Park Report](https://gewit-hring.com/journal/ukiedh-glasgow-t1/)   
 ![Image: A collage of photos taken by Team 1 on their dérive to Kevingrove Park]({{site.url}}/images/posts/Derive-Glasgow-T1.jpg)    
     
-[Team 2: Observations](https://gewit-hring.com/journal/ukiedh-glasgow-t2/)   
+[Team 2: Riverside Report](https://gewit-hring.com/journal/ukiedh-glasgow-t2/)   
 ![Image: A collage of photos taken by Team 2 on their dérive to Riverside and Govan]({{site.url}}/images/posts/Derive-Glasgow-T2.jpg)  
   
-[Team 3: Observations](https://gewit-hring.com/journal/ukiedh-glasgow-t3/)   
+[Team 3: Kibble Palace Report](https://gewit-hring.com/journal/ukiedh-glasgow-t3/)   
 ![Image: A collage of photos taken by Team 3 on their dérive to the Kibble Palace in Glasgow Botanic Garden]({{site.url}}/images/posts/Derive-Glasgow-T3.jpg)  
   
 ### The Challenges  

@@ -5,7 +5,7 @@ date: 2025-06-17
 image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow-T1.jpg
 lead_image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow-T1.jpg
 alt_text: "A map showing the results of a dérive in Glasgow."
-excerpt: "Team 1 set out east from the conference venue to explore Kevingrove Park. What did they find?"
+excerpt: "Team 1 set out east from the conference venue to explore Kelvingrove Park. What did they find?"
 author: Andy Corrigan
 geojson: Derive-Glasgow-T1.geojson  
 tags: []
@@ -15,9 +15,14 @@ tags: []
 
 ### Team 1: Kelvingrove Park
 
-Team 1 set out east from the conference venue to explore Kevingrove Park.
+Team 1 set out east from the conference venue to explore Kelvingrove Park.
 
-![Image: A collage of photos taken by Team 1 on their dérive to Kevingrove Park]({{site.url}}/images/posts/Derive-Glasgow-T1.jpg)
+Participants:
+- Jessica Dauterive
+- Jessica Mack
+- 
+
+![Image: A collage of photos taken by Team 1 on their dérive to Kelvingrove Park]({{site.url}}/images/posts/Derive-Glasgow-T1.jpg)
 
 ### Observations  
   

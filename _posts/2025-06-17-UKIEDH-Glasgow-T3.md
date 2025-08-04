@@ -17,6 +17,13 @@ tags: []
 
 Team 3 went north to Kibble Palace in Glasgow Botanic Garden.
 
+Participants:
+- S Anas Ahmad 
+- Elizabeth Cogan
+- Andy Corrigan
+- Vandana Govindani
+- Shanmugapriya T
+
 ![Image: A collage of photos taken by Team 3 on their dérive to the Kibble Palace in Glasgow Botanic Garden]({{site.url}}/images/posts/Derive-Glasgow-T3.jpg)
 
 ### Observations  
