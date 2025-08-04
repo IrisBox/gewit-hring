@@ -17,6 +17,8 @@ tags: []
 
 Team 2 made their way south to Riverside and Govan Footbridge.
 
+![Image: A collage of photos taken by Team 2 on their dérive to Riverside and Govan]({{site.url}}/images/posts/Derive-Glasgow-T2.jpg)
+
 ### Observations  
   
 Photographs:  
