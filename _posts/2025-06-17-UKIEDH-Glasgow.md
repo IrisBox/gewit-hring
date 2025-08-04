@@ -57,6 +57,9 @@ The dérive took place over 90 minutes. Each iPad used [Strava](https://www.stra
 [Team 3: Kibble Palace Report](https://gewit-hring.com/journal/ukiedh-glasgow-t3/)   
 ![Image: A collage of photos taken by Team 3 on their dérive to the Kibble Palace in Glasgow Botanic Garden]({{site.url}}/images/posts/Derive-Glasgow-T3.jpg)  
   
+Team 4: Glasgow Subway Report   
+![Image: A collage of additional photos taken around Glasgow over the course of the conference]({{site.url}}/images/posts/Derive-Glasgow-T4.jpg)  
+    
 ### The Challenges  
 Each team was provided with a selection of pre-existing digital resources, as well as a variety of challenges as prompts. These challenges were conceived to encourage closer reading of their surroundings, as well as to encourage them to use and situate the digital resources as a method of augmenting that experience. The number of challenges far exceeds what could be feasible in a timeframe of 90 minutes to intentionally heighten the role of chance in which the teams were drawn to undertaking on their specific dérive. The challenges are all listed below to assist in interpreting the resulting evidence, but I also hope other's might find inspiration and give them a go!    
 
