@@ -17,6 +17,8 @@ tags: []
 
 Team 1 set out east from the conference venue to explore Kevingrove Park.
 
+![Image: A collage of photos taken by Team 1 on their dérive to Kevingrove Park]({{site.url}}/images/posts/Derive-Glasgow-T1.jpg)
+
 ### Observations  
   
 Photographs:  
