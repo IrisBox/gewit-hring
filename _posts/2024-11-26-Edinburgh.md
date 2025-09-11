@@ -1,5 +1,5 @@
 ---
-title: "Case Study: University of Edinburgh"
+title: "Vignette: University of Edinburgh"
 layout: post
 date: 2024-11-26
 image: http://gewit-hring.com/images/posts/20241126-EDC-Edinburgh.jpg

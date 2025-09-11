@@ -1,5 +1,5 @@
 ---
-title: "Case Study: British Library"
+title: "Vignette: British Library"
 layout: post
 date: 2024-11-13
 image: http://gewit-hring.com/images/posts/20241113_BL.jpg
