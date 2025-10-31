@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Day One",
+        "link": "https://gewit-hring.com/journal/limassol#2",
         "stroke": "#00fcff",
         "stroke-width": 2,
         "stroke-opacity": 1
@@ -19784,6 +19785,7 @@
       "type": "Feature",
       "properties": {
         "name": "Day Two",
+        "link": "https://gewit-hring.com/journal/limassol#6",	
         "stroke": "#00f900",
         "stroke-width": 2,
         "stroke-opacity": 1
@@ -35779,6 +35781,7 @@
       "type": "Feature",
       "properties": {
         "name": "Day Three",
+        "link": "https://gewit-hring.com/journal/limassol#8",
         "stroke": "#932092",
         "stroke-width": 2,
         "stroke-opacity": 1
@@ -67894,6 +67897,7 @@
       "type": "Feature",
       "properties": {
         "name": "Day Four",
+        "link": "https://gewit-hring.com/journal/limassol#9",
         "stroke": "#ff9200",
         "stroke-width": 2,
         "stroke-opacity": 1
