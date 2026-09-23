@@ -1,18 +1,20 @@
 ---
-title: "20280828-LIBER-Trondheim"
+title: "20260828-LIBER-Trondheim"
 layout: post
 date: 2026-08-28
 image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
 lead_image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
 alt_text: "CHANGE ME!"
-excerpt: "CHANGE ME"
+excerpt: "Sobering but bold, justified and thought-provoking. With an air of positivity, are we getting on top of the AI deluge? My notes from the LIBER 2026 Annual Conference in Trondheim."
 author: Andy Corrigan
 audio:
 manifestOne: https://cudl.lib.cam.ac.uk//iiif/PH-Y-00303-E.json 
 tags: []
 ---
-## ***What Can Glasgow teach us?***   
-Opening a conference about research libraries with a keynote from the Director a national defence research institution might seem alarming, but the reality is that the library sector is inextricably a part of ‘… an uncertain world’. It was a sobering but bold, justified and thought-provoking way to set the tone for the LIBER 2026 Annual Conference in Trondheim, which took place between 1-3 July. 
+## The Power of Libraries in an Uncertain World   
+Opening a conference about research libraries with a keynote from the Director a national defence research institution might seem alarming, but the reality is that the library sector is inextricably a part of ‘… an uncertain world’. It was a sobering but bold, justified and thought-provoking way to set the tone for the LIBER 2026 Annual Conference in Trondheim, which took place between 1-3 July.
+
+You can see LIBER's article for their [Highlights](https://libereurope.eu/article/highlights-of-the-liber-annual-conference-2026/), but here are some of mine! 
         
 ### Keynote 1: 'The Future of Open Science in a World with an Increasing Conflict Level'
 It is reassuring to know that there are people such as Kenneth Ruud, the Director General of the Norwegian Defence Research Establishment, who are taking the relationship between information technology and conflict/security seriously. He showcased how, in current [increasing conflict levels](https://zenodo.org/records/21642335), information and knowledge are more of a weaponised battleground than ever before. Only a few years ago “openness” felt like a moral option, but Ruud firmly defines it as fundamental to the defence of truth, trust, and our security – believing that ‘we must think about our research in the perspective of conflict.’ He also stressed that this conflict extends beyond STEM disciplines and is equally as relevant to the humanities and social sciences. 
