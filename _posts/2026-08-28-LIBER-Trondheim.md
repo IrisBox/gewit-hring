@@ -73,11 +73,11 @@ Joseph Nockels has been [‘Mapping Stakeholder Tension in Automatic Text Recogn
 
 The third talk also felt very close-to-home for me, especially in relation to the DSDCH working group workshop and much of the practice-research I’ve been exploring around hybrid dérive and psychogeography. Agnes Koreny (Metropolitan Ervin Szabó Library, Budapest) shared [‘From Local Memory to Research-Ready Knowledge’](https://zenodo.org/records/21363607) – focusing on research integrity in practice-based community research. They took inspiration from Hungarian cinematographer [Mihály Ráday](https://hu.wikipedia.org/wiki/R%C3%A1day_Mih%C3%A1ly), who co-ordinated an urban heritage documentation initiative centred around Király Street in Budapest during the 80’s. They wanted to see if a library could provide the infrastructure necessary to explore how this work could be continued in the present day, creating the [‘Houses on Király Street’](https://bea.fszek.hu/handle/20.500.14711/66932) database in the Budapest Electronic Archive. This consists not only the outputs of a four-month study of the same street by volunteers in 2025, but all of the evidence that underpins that. Whilst a DSpace repository might not be the most engaging of interfaces for such an output, it does tick all the boxes for research integrity! [Note-to-self: get around to archiving a few things more rigorously!]. I’ve been invited to give a talk at this years [‘Focus on Open Science’](https://scholarly.events/chapter-xlviii-budapest/) event in Budapest later this year, so I’ll have to go on a dérive of my own to see what I can find on the street!
 
-![Image: A view... .]({{site.url}}/images/posts/202607_Trondheim/202607_06.jpg)
+![Image: A view of the meandering Nidelva river from Elgeseter Bridge, with Nidaros Cathedral on the left, Kristiansten Fortress in the distant centre, and the NTNU Gløshaugen campus on the right.]({{site.url}}/images/posts/202607_Trondheim/202607_06.jpg)
 
 ### Final thoughts…  
 What struck me over the entirety of this conference is that with an air of positivity we seem to be getting on top of the AI deluge. A couple of years ago, the library community seemed in a bit of a panic about it, but there’s now a calmer determination focussed on not only addressing the challenge, but in stepping-up to the important role of information …  
 
-![Image: A view... .]({{site.url}}/images/posts/202607_Trondheim/202607_07.jpg)
+![Image: A panoramic view from Kristiansten Fortress looking down on the city of Trondheim and out to its fjord.]({{site.url}}/images/posts/202607_Trondheim/202607_07.jpg)
 
 
