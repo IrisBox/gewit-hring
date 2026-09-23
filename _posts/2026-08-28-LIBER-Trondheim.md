@@ -2,9 +2,9 @@
 title: "20260828-LIBER-Trondheim"
 layout: post
 date: 2026-08-28
-image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
-lead_image: http://gewit-hring.com/images/posts/20250617-UKIEDH-Glasgow.jpg
-alt_text: "CHANGE ME!"
+image: http://gewit-hring.com/images/posts/20260702_Trondheim.jpg
+lead_image: http://gewit-hring.com/images/posts/20260702_Trondheim.jpg
+alt_text: "The red Gamle bybro (old town bridge) in Trondheim, with the Kristiansten Fortress in the distance."
 excerpt: "Sobering but bold, justified and thought-provoking. With an air of positivity, are we getting on top of the AI deluge? My notes from the LIBER 2026 Annual Conference in Trondheim."
 author: Andy Corrigan
 audio:
