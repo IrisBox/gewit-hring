@@ -18,7 +18,7 @@ The *Regenesis Triptych* is a response to a collaborative project called [Awaken
 
 Awakening - A multidisciplinary art project exploring a stranded android's struggle to regain functionality and self-awareness.
 
-<iframe src="https://fitzmuseum.cam.ac.uk/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>  
+<iframe src="https://uv-v4.netlify.app/uv.html#?manifest={{ page.manifestOne }}&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&r=0" width="90%" height="500" allowfullscreen frameborder="0"></iframe>  
 
 ### About the *Regenesis Triptych*   
 We find ourselves at an exciting confluence of human experience and technology. As places which care for our past and our future, Libraries and Archives are at its coalface. 
